@@ -1,0 +1,24 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      # Log into ECR
+      - echo "Logging in to ECR..."
+      - aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 943653636298.dkr.ecr.us-east-1.amazonaws.com
+
+      # Build the Docker image
+      - echo "Building the Docker image..."
+      - docker build -t rambunct-demo .
+
+      # Tag the Docker image for ECR
+      - echo "Tagging the image..."
+      - docker tag rambunct-demo:latest 943653636298.dkr.ecr.us-east-1.amazonaws.com/rambunct-demo:latest
+
+      # Push the Docker image to ECR
+      - echo "Pushing the image to ECR..."
+      - docker push 943653636298.dkr.ecr.us-east-1.amazonaws.com/rambunct-demo:latest
+
+artifacts:
+  files:
+    - imagedefinitions.json

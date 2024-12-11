@@ -1,18 +1,20 @@
-# Use Node.js base image
-FROM node:14
+# Use Python base image
+FROM python:3.9-slim
 
 # Set the working directory inside the container
 WORKDIR /app
 
-# Install dependencies
-COPY package*.json ./
-RUN npm install
+# Copy the requirements file
+COPY requirements.txt .
 
-# Copy the rest of the application
+# Install dependencies (Flask in this case)
+RUN pip install -r requirements.txt
+
+# Copy the rest of the application code
 COPY . .
 
-# Expose the application port
+# Expose port 5000 for the Flask app (default Flask port)
 EXPOSE 3000
 
-# Start the application
-CMD ["npm", "start"]
+# Start the Flask application
+CMD ["python", "app.py"]

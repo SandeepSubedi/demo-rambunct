@@ -1,0 +1,3506 @@
+hop_ip,country,city,region,loc
+1.9.244.145,MY,Petaling Jaya,Selangor,"3.1073,101.6067"
+101.53.31.5,VN,Ho Chi Minh City,Ho Chi Minh City (HCMC),"10.8230,106.6296"
+102.128.144.193,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.130.49.21,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.130.51.107,TW,Taipei,Taiwan,"25.0531,121.5264"
+102.130.51.162,SG,Singapore,Singapore,"1.2897,103.8501"
+102.130.51.174,JP,Tokyo,Tokyo,"35.6895,139.6917"
+102.130.51.194,SG,Singapore,Singapore,"1.2897,103.8501"
+102.130.51.206,US,Secaucus,New Jersey,"40.7895,-74.0565"
+102.130.51.88,RU,Moscow,Moscow,"55.7520,37.6178"
+102.130.66.1,AO,Talatona,Luanda,"-8.9178,13.1856"
+102.130.67.113,SG,Singapore,Singapore,"1.2897,103.8501"
+102.130.68.112,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.130.68.146,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.130.69.5,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.130.70.203,AO,Luanda,Luanda,"-8.8368,13.2343"
+102.130.70.57,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.176.238.155,ZA,Durban,KwaZulu-Natal,"-29.8579,31.0292"
+102.176.238.175,ZA,Durban,KwaZulu-Natal,"-29.8579,31.0292"
+102.176.238.46,ZA,Durban,KwaZulu-Natal,"-29.8579,31.0292"
+102.205.240.1,ZA,Retreat,Western Cape,"-34.0551,18.4762"
+102.206.164.12,NL,Amsterdam,North Holland,"52.3740,4.8897"
+102.206.164.254,KE,Nairobi,Nairobi County,"-1.2833,36.8167"
+102.208.239.122,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.211.153.33,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.212.60.2,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.212.60.3,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.216.158.16,GB,London,England,"51.5085,-0.1257"
+102.216.76.16,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.216.76.20,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.217.156.153,KE,Nairobi,Nairobi County,"-1.2833,36.8167"
+102.217.159.78,KE,Nairobi,Nairobi County,"-1.2833,36.8167"
+102.217.253.201,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.217.253.5,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.219.44.42,CM,Douala,Littoral,"4.0483,9.7043"
+102.219.47.82,NG,Lagos,Lagos,"6.4541,3.3947"
+102.219.47.86,CM,Douala,Littoral,"4.0483,9.7043"
+102.220.16.254,CM,Douala,Littoral,"4.0483,9.7043"
+102.220.216.12,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+102.221.178.102,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.221.178.192,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.221.178.40,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+102.222.105.1,MU,Quatre Bornes,Plaines Wilhems,"-20.2638,57.4791"
+102.23.166.241,NG,Kano,Kano State,"12.0001,8.5167"
+102.89.17.205,NG,Lagos,Lagos,"6.4541,3.3947"
+103.1.76.139,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.1.76.145,AU,Melbourne,Victoria,"-37.8140,144.9633"
+103.1.76.147,AU,Melbourne,Victoria,"-37.8140,144.9633"
+103.1.76.155,AU,Adelaide,South Australia,"-34.9287,138.5986"
+103.1.76.165,AU,Melbourne,Victoria,"-37.8140,144.9633"
+103.1.77.1,AU,Perth,Western Australia,"-31.9522,115.8614"
+103.1.77.121,AU,Perth,Western Australia,"-31.9522,115.8614"
+103.1.77.14,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.1.77.32,AU,Brisbane,Queensland,"-27.4679,153.0281"
+103.1.77.46,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.1.77.6,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.1.77.78,AU,Melbourne,Victoria,"-37.8140,144.9633"
+103.1.77.9,AU,Perth,Western Australia,"-31.9522,115.8614"
+103.102.166.140,SG,Singapore,Singapore,"1.2897,103.8501"
+103.102.166.19,SG,Singapore,Singapore,"1.2897,103.8501"
+103.110.178.247,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.113.176.1,TH,Si Racha,Chon Buri,"13.1737,100.9311"
+103.113.176.66,TH,Si Racha,Chon Buri,"13.1737,100.9311"
+103.116.125.1,SG,Singapore,Singapore,"1.2897,103.8501"
+103.12.14.26,ID,Jakarta,Jakarta,"-6.1778,106.8269"
+103.121.34.131,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.123.253.33,TW,Taipei,Taiwan,"25.0531,121.5264"
+103.125.244.40,PH,Cebu City,Central Visayas,"10.3167,123.8907"
+103.125.244.42,PH,Davao,Davao Region,"7.0731,125.6128"
+103.126.52.179,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.126.52.194,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.126.53.163,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.13.80.142,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.130.69.89,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.134.185.181,ID,Jakarta,Jakarta,"-6.1778,106.8269"
+103.136.36.97,IN,Srinagar,Jammu and Kashmir,"34.0857,74.8055"
+103.137.13.164,NL,Haarlem,North Holland,"52.3808,4.6368"
+103.137.13.40,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.137.22.129,TW,Taipei,Taiwan,"25.0531,121.5264"
+103.138.72.129,HK,Kwai Chung,Kwai Tsing District,"22.3683,114.1388"
+103.138.72.36,HK,Kwai Chung,Kwai Tsing District,"22.3683,114.1388"
+103.14.245.253,SG,Singapore,Singapore,"1.2897,103.8501"
+103.141.25.252,GB,London,England,"51.5085,-0.1257"
+103.142.152.105,GU,Dededo Village,Dededo,"13.5178,144.8391"
+103.144.177.25,CA,Toronto,Ontario,"43.7064,-79.3986"
+103.147.22.254,TW,Taipei,Taiwan,"25.0531,121.5264"
+103.147.52.49,ID,Batam,Riau,"1.1494,104.0249"
+103.147.52.89,ID,Batam,Riau,"1.1494,104.0249"
+103.151.64.29,US,Los Angeles,California,"34.0522,-118.2437"
+103.151.64.30,GU,Tamuning-Tumon-Harmon Village,Tamuning,"13.4877,144.7814"
+103.152.226.254,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+103.153.176.254,TW,Taipei,Taiwan,"25.0531,121.5264"
+103.156.251.3,SG,Singapore,Singapore,"1.2897,103.8501"
+103.158.187.30,TW,Taipei,Taiwan,"25.0531,121.5264"
+103.16.102.81,SG,Singapore,Singapore,"1.2897,103.8501"
+103.16.190.1,ID,Jakarta,Jakarta,"-6.1778,106.8269"
+103.161.244.130,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.161.244.33,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.161.244.66,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.161.244.82,GU,Tamuning-Tumon-Harmon Village,Tamuning,"13.4877,144.7814"
+103.162.19.253,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+103.167.250.1,TW,Tainan,Taiwan,"22.9908,120.2133"
+103.167.46.1,JP,Osaka,Osaka,"34.6938,135.5011"
+103.167.46.194,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.167.46.65,JP,Koganei,Tokyo,"35.7001,139.5111"
+103.17.154.65,US,Kansas City,Missouri,"39.0997,-94.5786"
+103.170.154.1,GB,London,England,"51.5085,-0.1257"
+103.170.232.11,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.170.232.2,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.170.24.177,ID,Semarang,Central Java,"-6.9931,110.4208"
+103.170.25.9,ID,Semarang,Central Java,"-6.9931,110.4208"
+103.174.12.225,PH,Davao,Davao Region,"7.0731,125.6128"
+103.179.107.1,IN,Mumbai,Maharashtra,"19.0728,72.8826"
+103.183.1.133,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+103.186.92.81,ID,Randuboto,East Java,"-7.0034,112.5812"
+103.190.138.129,PH,General Santos,Soccsksargen,"6.1128,125.1717"
+103.196.51.243,NL,Amsterdam,North Holland,"52.3740,4.8897"
+103.197.232.115,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.197.232.126,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.197.232.191,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.197.56.43,MY,Kampung Baru Subang,Selangor,"3.1500,101.5333"
+103.198.140.176,IN,Mumbai,Maharashtra,"19.0728,72.8826"
+103.198.140.77,SG,Singapore,Singapore,"1.2897,103.8501"
+103.2.186.221,NC,Nouméa,South Province,"-22.2741,166.4488"
+103.202.216.73,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.203.243.10,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+103.208.140.148,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.208.140.149,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.215.229.1,ID,Surabaya,East Java,"-7.2705,112.7275"
+103.216.222.21,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.225.13.2,IN,Mangaluru,Karnataka,"12.9172,74.8560"
+103.225.148.17,ID,Kuta,Bali,"-8.7233,115.1723"
+103.225.148.34,ID,Jakarta,Jakarta,"-6.2313,106.8282"
+103.230.56.35,MY,Cyberjaya,Selangor,"2.9228,101.6572"
+103.231.152.156,SG,Singapore,Singapore,"1.2897,103.8501"
+103.232.152.145,NP,Kathmandu,Bagmati Province,"27.7017,85.3206"
+103.232.18.41,SG,Singapore,Singapore,"1.2897,103.8501"
+103.242.68.65,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.242.73.134,SG,Singapore,Singapore,"1.2897,103.8501"
+103.242.74.186,SG,Singapore,Singapore,"1.2897,103.8501"
+103.243.102.184,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.243.102.26,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.243.102.64,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.246.249.174,RO,Bucharest,București,"44.4323,26.1063"
+103.246.249.3,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+103.253.132.1,TH,Bangkok,Bangkok,"13.7540,100.5014"
+103.26.202.113,NZ,Auckland,Auckland,"-36.8485,174.7635"
+103.3.172.100,SG,Jurong Town,Singapore,"1.3342,103.7228"
+103.31.156.135,ID,Batam,Riau,"1.1494,104.0249"
+103.40.209.2,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.41.247.54,ID,Bandung,West Java,"-6.9222,107.6069"
+103.41.247.65,ID,Bandung,West Java,"-6.9222,107.6069"
+103.43.212.204,PH,Cebu City,Central Visayas,"10.3167,123.8907"
+103.43.212.72,PH,Cebu City,Central Visayas,"10.3167,123.8907"
+103.43.212.74,PH,Manila,National Capital Region,"14.6042,120.9822"
+103.43.212.84,SG,Singapore,Singapore,"1.2897,103.8501"
+103.43.212.86,SG,Singapore,Singapore,"1.2897,103.8501"
+103.43.212.92,PH,Quezon City,National Capital Region,"14.6488,121.0509"
+103.44.232.71,SG,Singapore,Singapore,"1.2897,103.8501"
+103.48.31.137,JP,Osaka,Osaka,"34.6938,135.5011"
+103.48.31.62,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.48.31.74,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.48.31.84,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.48.31.87,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.5.15.4,SG,Singapore,Singapore,"1.2897,103.8501"
+103.51.91.5,TW,Taipei,Taiwan,"25.0531,121.5264"
+103.57.234.1,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.60.60.221,SG,Singapore,Singapore,"1.2897,103.8501"
+103.69.212.3,SG,Singapore,Singapore,"1.2897,103.8501"
+103.77.105.28,ID,Jakarta,Jakarta,"-6.2069,106.8160"
+103.80.80.14,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+103.80.80.160,ID,Batam,Riau,"1.1494,104.0249"
+103.80.80.18,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+103.80.80.225,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+103.84.153.113,SG,Singapore,Singapore,"1.2897,103.8501"
+103.85.36.40,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.85.36.94,AU,Sydney,New South Wales,"-33.8678,151.2073"
+103.87.124.133,LK,Colombo,Western Province,"6.9355,79.8487"
+103.87.124.194,SG,Singapore,Singapore,"1.2897,103.8501"
+103.87.124.198,SG,Singapore,Singapore,"1.2897,103.8501"
+103.87.125.29,LK,Colombo,Western Province,"6.9355,79.8487"
+103.87.125.81,LK,Colombo,Western Province,"6.9355,79.8487"
+103.87.186.178,ID,Malang,East Java,"-7.9797,112.6304"
+103.87.186.3,ID,Batam,Riau,"1.1494,104.0249"
+103.96.64.254,JP,Asagaya-minami,Tokyo,"35.7021,139.6375"
+103.96.67.25,JP,Tokyo,Tokyo,"35.6895,139.6917"
+103.96.67.58,JP,Kawasaki,Kanagawa,"35.5206,139.7172"
+104.153.86.130,US,Ashburn,Virginia,"39.0437,-77.4875"
+104.156.243.129,US,Miami,Florida,"25.7743,-80.1937"
+104.167.214.1,NL,Amsterdam,North Holland,"52.3740,4.8897"
+104.167.243.65,US,Spring,Texas,"30.0799,-95.4172"
+104.193.132.100,CA,Vancouver,British Columbia,"49.2497,-123.1193"
+104.225.102.121,US,Phoenix,Arizona,"33.4484,-112.0740"
+104.225.114.84,US,Ashburn,Virginia,"39.0437,-77.4875"
+104.225.120.50,US,Raleigh,North Carolina,"35.7908,-78.6530"
+104.225.2.188,US,Durham,North Carolina,"35.9940,-78.8986"
+104.225.3.73,US,Durham,North Carolina,"35.9940,-78.8986"
+104.225.97.189,US,Seattle,Washington,"47.6062,-122.3321"
+104.234.21.2,US,New York City,New York,"40.7143,-74.0060"
+104.234.31.2,US,Elk Grove Village,Illinois,"42.0039,-87.9703"
+104.251.123.43,US,Phoenix,Arizona,"33.4484,-112.0740"
+105.16.19.2,KE,Nairobi,Nairobi County,"-1.2833,36.8167"
+105.16.28.1,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+105.16.29.1,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+105.16.29.2,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+105.16.31.2,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+105.16.35.8,GB,London,England,"51.5085,-0.1257"
+105.16.8.206,GB,London,England,"51.5085,-0.1257"
+105.177.13.7,GB,London,England,"51.5085,-0.1257"
+105.21.33.145,KE,Nairobi,Nairobi County,"-1.2833,36.8167"
+105.22.33.121,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+105.22.34.173,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+105.22.72.213,ZA,Cape Town,Western Cape,"-33.9258,18.4232"
+105.233.31.195,GB,London,England,"51.5085,-0.1257"
+105.25.146.5,ZA,Johannesburg,Gauteng,"-26.2023,28.0436"
+105.25.162.254,KE,Mombasa,Mombasa County,"-4.0547,39.6636"
+105.25.162.70,KE,Nairobi,Nairobi County,"-1.2833,36.8167"
+107.151.62.1,US,Piscataway,New Jersey,"40.4993,-74.3990"
+107.155.16.220,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+107.161.24.1,US,Seattle,Washington,"47.6062,-122.3321"
+107.162.216.1,US,Ashburn,Virginia,"39.0437,-77.4875"
+107.162.217.1,US,San Jose,California,"37.3394,-121.8950"
+107.162.218.1,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+107.162.219.1,SG,Singapore,Singapore,"1.2897,103.8501"
+107.162.220.1,GB,Slough,England,"51.5095,-0.5954"
+107.162.223.1,US,Seattle,Washington,"47.6062,-122.3321"
+108.61.225.1,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+109.105.102.168,FI,Helsinki,Uusimaa,"60.1695,24.9354"
+109.105.97.73,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+109.105.97.77,DE,Hamburg,Hamburg,"53.5507,9.9930"
+109.108.42.237,RU,Moscow,Moscow,"55.7520,37.6178"
+109.108.43.133,RU,Moscow,Moscow,"55.7520,37.6178"
+109.168.125.194,IT,Milan,Lombardy,"45.4643,9.1895"
+109.171.136.2,SA,Thuwal,Mecca Region,"22.2827,39.1125"
+109.200.218.101,US,Dallas,Texas,"32.7831,-96.8067"
+109.200.218.15,US,Los Angeles,California,"34.0522,-118.2437"
+109.200.218.156,US,New York City,New York,"40.7143,-74.0060"
+109.200.218.17,US,Ashburn,Virginia,"39.0437,-77.4875"
+109.200.218.18,GB,London,England,"51.5085,-0.1257"
+109.200.218.188,GB,London,England,"51.5085,-0.1257"
+109.200.218.21,US,New York City,New York,"40.7143,-74.0060"
+109.200.218.23,US,Dallas,Texas,"32.7831,-96.8067"
+109.200.218.73,NL,Amsterdam,North Holland,"52.3740,4.8897"
+109.200.218.86,US,Los Angeles,California,"34.0522,-118.2437"
+109.200.218.9,US,Los Angeles,California,"34.0522,-118.2437"
+109.200.219.34,US,Atlanta,Georgia,"33.7490,-84.3880"
+109.200.219.78,NL,Rotterdam,South Holland,"51.9225,4.4792"
+109.230.214.1,US,Miami,Florida,"25.7743,-80.1937"
+109.233.104.96,BE,Brussels,Brussels Capital,"50.8505,4.3488"
+109.239.129.90,RU,Saint Petersburg,St.-Petersburg,"59.9386,30.3141"
+109.68.160.14,BE,Brussels,Brussels Capital,"50.8505,4.3488"
+109.68.162.236,BE,Schaerbeek,Brussels Capital,"50.8693,4.3774"
+111.90.128.230,MY,Kuala Lumpur,Kuala Lumpur,"3.1412,101.6865"
+111.92.160.232,ID,Jakarta,Jakarta,"-6.1778,106.8269"
+113.59.232.162,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+113.59.232.231,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+114.142.196.12,GU,Tamuning-Tumon-Harmon Village,Tamuning,"13.4877,144.7814"
+114.142.196.155,JP,Tokyo,Tokyo,"35.6895,139.6917"
+114.142.196.164,GU,Dededo Village,Dededo,"13.5178,144.8391"
+114.31.192.112,AU,Sydney,New South Wales,"-33.8678,151.2073"
+114.31.192.114,AU,Sydney,New South Wales,"-33.8678,151.2073"
+114.31.192.70,AU,Sydney,New South Wales,"-33.8678,151.2073"
+114.31.194.58,AU,Brisbane,Queensland,"-27.4679,153.0281"
+114.31.194.62,AU,Brisbane,Queensland,"-27.4679,153.0281"
+114.31.196.42,AU,Melbourne,Victoria,"-37.8140,144.9633"
+114.31.201.90,AU,Sydney,New South Wales,"-33.8678,151.2073"
+114.31.206.112,AU,Perth,Western Australia,"-31.9522,115.8614"
+114.31.206.51,AU,Perth,Western Australia,"-31.9522,115.8614"
+114.31.206.75,AU,Perth,Western Australia,"-31.9522,115.8614"
+114.31.207.6,AU,Perth,Western Australia,"-31.9522,115.8614"
+115.114.12.185,IN,Delhi,Delhi,"28.6519,77.2315"
+115.31.164.214,TH,Bangkok,Bangkok,"13.7540,100.5014"
+115.31.164.53,TH,Bangkok,Bangkok,"13.7540,100.5014"
+115.84.180.45,VN,Ho Chi Minh City,Ho Chi Minh City (HCMC),"10.8230,106.6296"
+116.0.68.143,TW,Taipei,Taiwan,"25.0531,121.5264"
+116.119.61.204,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+116.119.61.206,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+116.119.61.234,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+116.203.161.214,DE,Nürnberg,Bavaria,"49.4542,11.0775"
+116.206.155.225,IN,Ahmedabad,Gujarat,"23.0258,72.5873"
+116.251.184.176,NZ,Auckland,Auckland,"-36.8485,174.7635"
+116.251.184.43,NZ,Auckland,Auckland,"-36.8485,174.7635"
+116.251.187.224,NZ,Auckland,Auckland,"-36.8485,174.7635"
+116.251.187.81,NZ,Auckland,Auckland,"-36.8485,174.7635"
+116.51.27.1,SG,Singapore,Singapore,"1.2897,103.8501"
+116.66.193.13,NP,Kathmandu,Bagmati Province,"27.7017,85.3206"
+116.66.204.101,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+116.89.245.18,PH,Pulong Santa Cruz,Calabarzon,"14.2732,121.0764"
+116.89.245.42,PH,Pulong Santa Cruz,Calabarzon,"14.2732,121.0764"
+117.216.207.109,IN,Thiruvananthapuram,Kerala,"8.4855,76.9492"
+117.216.207.122,IN,Chennai,Tamil Nadu,"13.0878,80.2785"
+117.250.113.138,IN,Guwahati,Assam,"26.1844,91.7458"
+118.107.220.3,MY,Cyberjaya,Selangor,"2.9228,101.6572"
+118.143.210.177,PH,Manila,National Capital Region,"14.6042,120.9822"
+119.17.170.242,AU,Sydney,New South Wales,"-33.8678,151.2073"
+119.252.112.166,GU,Tamuning-Tumon-Harmon Village,Tamuning,"13.4877,144.7814"
+119.252.112.65,FM,Palikir,Pohnpei State,"6.9248,158.1611"
+12.50.241.121,US,Boston,Massachusetts,"42.3584,-71.0598"
+121.100.6.152,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+121.100.7.1,ID,Batam,Riau,"1.1494,104.0249"
+121.241.90.57,IN,Ahmedabad,Gujarat,"23.0258,72.5873"
+122.187.37.13,IN,Srinagar,Jammu and Kashmir,"34.0857,74.8055"
+122.54.15.241,PH,General Santos,Soccsksargen,"6.1128,125.1717"
+122.56.127.2,NZ,Auckland,Auckland,"-36.8184,174.7098"
+123.103.192.109,AU,Brisbane,Queensland,"-27.4679,153.0281"
+123.176.1.2,MV,Male,Kaafu Atoll,"4.1752,73.5092"
+123.231.32.97,LK,Colombo,Western Province,"6.9355,79.8487"
+124.157.114.133,NZ,Auckland,Auckland,"-36.8485,174.7635"
+124.157.114.134,NZ,Auckland,Auckland,"-36.8485,174.7635"
+124.157.73.185,NZ,Wellington,Wellington Region,"-41.2866,174.7756"
+124.217.224.1,MY,Kuala Lumpur,Kuala Lumpur,"3.1412,101.6865"
+124.254.64.129,AU,Sydney,New South Wales,"-33.8678,151.2073"
+124.254.67.85,AU,Sydney,New South Wales,"-33.8678,151.2073"
+124.6.50.76,MY,Kuala Lumpur,Kuala Lumpur,"3.1412,101.6865"
+125.17.58.157,IN,Patna,Bihar,"25.5941,85.1356"
+125.17.7.41,IN,Mumbai,Maharashtra,"19.0728,72.8826"
+125.18.173.101,IN,Delhi,Delhi,"28.6519,77.2315"
+125.212.255.221,VN,Thủ Dầu Một,Ho Chi Minh City (HCMC),"10.9804,106.6519"
+125.214.162.139,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+125.214.191.38,LK,Colombo,Western Province,"6.9355,79.8487"
+125.214.191.39,LK,Colombo,Western Province,"6.9355,79.8487"
+125.63.12.157,AU,Sydney,New South Wales,"-33.8678,151.2073"
+128.0.113.129,SG,Singapore,Singapore,"1.2897,103.8501"
+128.0.115.65,AU,Sydney,New South Wales,"-33.8678,151.2073"
+128.100.103.1,CA,Toronto,Ontario,"43.7064,-79.3986"
+128.177.76.41,US,Chicago,Illinois,"41.8500,-87.6500"
+128.241.10.116,SG,Singapore,Singapore,"1.2897,103.8501"
+128.241.14.73,US,Dallas,Texas,"32.7831,-96.8067"
+128.241.15.41,US,Ashburn,Virginia,"39.0437,-77.4875"
+128.241.4.129,US,Los Angeles,California,"34.0522,-118.2437"
+128.3.53.106,US,Berkeley,California,"37.8716,-122.2728"
+129.13.70.150,DE,Karlsruhe,Baden-Wurttemberg,"49.0094,8.4044"
+129.13.73.49,DE,Karlsruhe,Baden-Wurttemberg,"49.0094,8.4044"
+129.143.23.25,DE,Furtwangen,Baden-Wurttemberg,"48.0516,8.2072"
+129.143.57.192,DE,Stuttgart,Baden-Wurttemberg,"48.7823,9.1770"
+129.143.57.210,DE,Offenburg,Baden-Wurttemberg,"48.4738,7.9450"
+129.143.57.65,DE,Stuttgart,Baden-Wurttemberg,"48.7823,9.1770"
+129.143.58.152,DE,Karlsruhe,Baden-Wurttemberg,"49.0094,8.4044"
+129.143.60.113,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+129.143.60.115,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+129.143.60.124,DE,Stuttgart,Baden-Wurttemberg,"48.7823,9.1770"
+129.143.66.64,DE,Stuttgart,Baden-Wurttemberg,"48.7823,9.1770"
+129.205.30.45,UG,Kampala,Central Region,"0.3163,32.5822"
+129.250.199.213,US,Seattle,Washington,"47.6062,-122.3321"
+129.250.2.10,NL,Amsterdam,North Holland,"52.3740,4.8897"
+129.250.2.110,GB,London,England,"51.5085,-0.1257"
+129.250.2.115,US,Los Angeles,California,"34.0522,-118.2437"
+129.250.2.12,US,New York City,New York,"40.7143,-74.0060"
+129.250.2.122,US,Seattle,Washington,"47.6062,-122.3321"
+129.250.2.133,AU,Sydney,New South Wales,"-33.8678,151.2073"
+129.250.2.141,US,New York City,New York,"40.7143,-74.0060"
+129.250.2.176,US,Los Angeles,California,"34.0522,-118.2437"
+129.250.2.200,SG,Singapore,Singapore,"1.2897,103.8501"
+129.250.2.26,US,Seattle,Washington,"47.6062,-122.3321"
+129.250.2.34,US,New York City,New York,"40.7143,-74.0060"
+129.250.2.52,US,Los Angeles,California,"34.0522,-118.2437"
+129.250.2.72,US,Ashburn,Virginia,"39.0437,-77.4875"
+129.250.203.221,US,Atlanta,Georgia,"33.7490,-84.3880"
+129.250.203.81,US,Seattle,Washington,"47.6062,-122.3321"
+129.250.3.13,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+129.250.3.31,US,Los Angeles,California,"34.0522,-118.2437"
+129.250.3.46,US,Dallas,Texas,"32.7831,-96.8067"
+129.250.4.142,US,Seattle,Washington,"47.6062,-122.3321"
+129.250.4.165,US,Ashburn,Virginia,"39.0437,-77.4875"
+129.250.5.1,US,Ashburn,Virginia,"39.0437,-77.4875"
+129.250.5.150,NL,Amsterdam,North Holland,"52.3740,4.8897"
+129.250.5.190,JP,Tokyo,Tokyo,"35.6895,139.6917"
+129.250.5.6,US,Ashburn,Virginia,"39.0437,-77.4875"
+129.250.5.73,JP,Osaka,Osaka,"34.6938,135.5011"
+129.250.5.86,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+129.250.6.146,GB,London,England,"51.5085,-0.1257"
+129.250.6.176,US,New York City,New York,"40.7143,-74.0060"
+129.250.6.36,US,Atlanta,Georgia,"33.7490,-84.3880"
+129.250.6.70,SG,Singapore,Singapore,"1.2897,103.8501"
+129.250.7.28,AT,Vienna,Vienna,"48.2085,16.3721"
+129.250.7.34,CZ,Pilsen,Plzeň Region,"49.7475,13.3776"
+129.250.7.39,AT,Vienna,Vienna,"48.2085,16.3721"
+129.250.7.65,AT,Vienna,Vienna,"48.2085,16.3721"
+130.104.228.253,BE,Louvain-la-Neuve,Wallonia,"50.6683,4.6144"
+130.117.0.189,BG,Sofia,Sofia-Capital,"42.6975,23.3241"
+130.117.0.94,RS,Belgrade,Central Serbia,"44.8040,20.4651"
+130.117.1.161,FR,Paris,Île-de-France,"48.8534,2.3488"
+130.117.3.53,FR,Paris,Île-de-France,"48.8534,2.3488"
+130.117.49.145,NL,Amsterdam,North Holland,"52.3740,4.8897"
+130.117.50.81,AT,Vienna,Vienna,"48.2085,16.3721"
+130.117.51.42,NL,Amsterdam,North Holland,"52.3740,4.8897"
+130.117.51.57,SK,Bratislava,Bratislava Region,"48.1482,17.1067"
+130.193.166.21,IQ,Erbil,Erbil,"36.1912,44.0094"
+130.206.214.97,ES,Madrid,Madrid,"40.4165,-3.7026"
+130.206.216.1,ES,Madrid,Madrid,"40.4165,-3.7026"
+130.206.245.50,ES,Madrid,Madrid,"40.4165,-3.7026"
+130.59.36.102,CH,Zürich,Zurich,"47.3667,8.5500"
+130.59.36.177,CH,Zürich,Zurich,"47.3667,8.5500"
+130.59.36.71,CH,Zürich,Zurich,"47.3667,8.5500"
+130.59.36.96,CH,Neuchâtel,Neuchâtel,"46.9918,6.9310"
+130.59.80.1,CH,Zürich,Zurich,"47.3667,8.5500"
+131.100.0.157,MX,Santiago de Querétaro,Querétaro,"20.5881,-100.3881"
+131.100.140.161,SV,San Salvador,San Salvador Department,"13.6893,-89.1872"
+131.108.236.160,DO,Moca,Espaillat Province,"19.3929,-70.5235"
+131.108.236.64,DO,Moca,Espaillat Province,"19.3929,-70.5235"
+131.108.236.68,DO,Moca,Espaillat Province,"19.3929,-70.5235"
+131.108.236.9,DO,Moca,Espaillat Province,"19.3929,-70.5235"
+131.188.10.26,DE,Erlangen,Bavaria,"49.5910,11.0078"
+131.188.20.252,DE,Erlangen,Bavaria,"49.5910,11.0078"
+131.196.246.23,MX,Mérida,Yucatán,"20.9670,-89.6232"
+131.243.245.154,US,Berkeley,California,"37.8716,-122.2728"
+131.243.245.178,US,Berkeley,California,"37.8716,-122.2728"
+131.243.245.24,US,Berkeley,California,"37.8716,-122.2728"
+131.72.76.117,TT,Mon Repos,San Fernando,"10.2798,-61.4459"
+131.72.76.129,TT,Princes Town,Princes Town,"10.2718,-61.3710"
+132.147.112.87,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+132.255.211.224,SV,San Miguel,San Miguel Department,"13.4826,-88.1821"
+133.208.191.42,JP,Tokyo,Tokyo,"35.6895,139.6917"
+133.208.55.17,JP,Tokyo,Tokyo,"35.6895,139.6917"
+133.208.55.65,JP,Osaka,Osaka,"34.6938,135.5011"
+133.69.15.1,JP,Kyoto,Kyoto,"35.0211,135.7538"
+134.0.221.2,OM,Muscat,Muscat,"23.5841,58.4078"
+134.208.12.254,TW,Hualien City,Taiwan,"23.9769,121.6044"
+135.84.178.226,CA,Vancouver,British Columbia,"49.2497,-123.1193"
+136.0.251.1,US,Salt Lake City,Utah,"40.7608,-111.8911"
+136.175.9.105,US,Phoenix,Arizona,"33.4484,-112.0740"
+137.164.11.88,US,San Jose,California,"37.3394,-121.8950"
+137.164.11.94,US,San Jose,California,"37.3394,-121.8950"
+137.164.13.10,US,Redding,California,"40.5865,-122.3917"
+137.164.23.36,US,Berkeley,California,"37.8716,-122.2728"
+137.164.46.6,US,Sacramento,California,"38.5816,-121.4944"
+137.164.50.242,US,San Francisco,California,"37.7749,-122.4194"
+137.193.69.251,DE,Munich,Bavaria,"48.1374,11.5755"
+137.193.9.174,DE,Munich,Bavaria,"48.1374,11.5755"
+137.59.127.33,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+137.83.80.40,US,Everett,Washington,"47.9790,-122.2021"
+137.83.80.65,US,Everett,Washington,"47.9790,-122.2021"
+138.0.41.50,CO,Bogotá,Bogota D.C.,"4.6097,-74.0817"
+138.0.42.118,US,Miami,Florida,"25.7743,-80.1937"
+138.117.32.9,BR,Feira de Santana,Bahia,"-12.2667,-38.9667"
+138.124.150.2,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+138.187.129.12,CH,Zürich,Zurich,"47.3667,8.5500"
+138.187.129.56,CH,Zürich,Zurich,"47.3667,8.5500"
+138.197.250.180,NL,Amsterdam,North Holland,"52.3740,4.8897"
+138.197.251.44,US,New York City,New York,"40.7143,-74.0060"
+138.204.7.241,AR,Tostado,Santa Fe,"-29.2327,-61.7687"
+138.217.126.73,AU,Perth,Western Australia,"-31.9522,115.8614"
+138.217.126.74,AU,Perth,Western Australia,"-31.9522,115.8614"
+138.255.248.1,DO,Moca,Espaillat Province,"19.3929,-70.5235"
+138.68.34.247,US,Santa Clara,California,"37.3541,-121.9552"
+139.162.0.101,SG,Singapore,Singapore,"1.2897,103.8501"
+139.162.129.102,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+139.19.0.25,DE,Saarbrücken,Saarland,"49.2326,7.0098"
+139.19.0.28,DE,Saarbrücken,Saarland,"49.2326,7.0098"
+139.19.0.29,DE,Saarbrücken,Saarland,"49.2326,7.0098"
+139.19.117.66,DE,Saarbrücken,Saarland,"49.2326,7.0098"
+139.45.18.119,DK,Kolding,South Denmark,"55.4904,9.4722"
+139.45.20.87,DK,Kolding,South Denmark,"55.4904,9.4722"
+139.45.229.26,RU,Moscow,Moscow,"55.7520,37.6178"
+139.45.230.150,RU,Moscow,Moscow,"55.7520,37.6178"
+139.45.231.30,RU,Moscow,Moscow,"55.7520,37.6178"
+139.45.232.1,RU,Saint Petersburg,St.-Petersburg,"59.9386,30.3141"
+139.45.232.3,RU,Saint Petersburg,St.-Petersburg,"59.9386,30.3141"
+139.45.244.222,RU,Voronezh,Voronezh Oblast,"51.6683,39.1920"
+139.45.29.174,DK,Kolding,South Denmark,"55.4904,9.4722"
+139.45.31.216,DK,Kolding,South Denmark,"55.4904,9.4722"
+139.45.31.217,DK,Kolding,South Denmark,"55.4904,9.4722"
+139.99.216.1,AU,Sydney,New South Wales,"-33.8678,151.2073"
+139.99.72.1,SG,Ulu Bedok,Singapore,"1.3333,103.9333"
+14.1.54.101,NZ,Auckland,Auckland,"-36.8485,174.7635"
+14.140.58.161,LK,Colombo,Western Province,"6.9355,79.8487"
+140.235.115.1,NL,Amsterdam,North Holland,"52.3740,4.8897"
+140.235.115.150,NL,Amsterdam,North Holland,"52.3740,4.8897"
+140.235.115.254,NL,Amsterdam,North Holland,"52.3740,4.8897"
+140.235.236.1,US,Claremont,New Hampshire,"43.3767,-72.3468"
+140.235.4.105,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+140.235.4.64,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+140.235.4.70,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+140.235.72.83,US,Dallas,Texas,"32.7831,-96.8067"
+141.105.133.1,UA,Odesa,Odessa,"46.4857,30.7438"
+141.136.109.214,AT,Vienna,Vienna,"48.2085,16.3721"
+141.136.109.222,AT,Vienna,Vienna,"48.2085,16.3721"
+141.170.22.5,GB,Leeds,England,"53.7965,-1.5478"
+141.170.30.93,GB,Leeds,England,"53.7965,-1.5478"
+141.170.30.95,GB,London,England,"51.5085,-0.1257"
+141.193.21.97,US,Renton,Washington,"47.4829,-122.2171"
+141.28.230.230,DE,Furtwangen,Baden-Wurttemberg,"48.0516,8.2072"
+141.28.230.242,DE,Furtwangen,Baden-Wurttemberg,"48.0516,8.2072"
+141.44.3.250,DE,Magdeburg,Saxony-Anhalt,"52.1313,11.6319"
+141.52.8.28,DE,Karlsruhe,Baden-Wurttemberg,"49.0094,8.4044"
+141.52.8.30,DE,Karlsruhe,Baden-Wurttemberg,"49.0094,8.4044"
+141.98.136.34,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+141.98.136.65,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+141.98.254.23,DK,Ballerup,Capital Region,"55.7317,12.3633"
+143.129.67.252,BE,Antwerpen,Flanders,"51.2205,4.4003"
+143.129.80.130,BE,Antwerpen,Flanders,"51.2205,4.4003"
+143.205.170.4,AT,Klagenfurt am Wörthersee,Carinthia,"46.6247,14.3053"
+143.208.160.3,BR,Ponta Grossa,Paraná,"-25.0950,-50.1619"
+143.215.194.205,US,Atlanta,Georgia,"33.7490,-84.3880"
+143.244.192.118,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.192.172,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.192.176,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.192.26,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.192.8,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.192.80,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.193.58,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.193.70,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.115,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.118,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.211,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.234,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.249,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.252,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.39,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.81,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.224.82,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.225.139,US,New York City,New York,"40.7143,-74.0060"
+143.244.225.212,US,New York City,New York,"40.7143,-74.0060"
+143.244.225.47,US,New York City,New York,"40.7143,-74.0060"
+143.244.226.252,US,New York City,New York,"40.7143,-74.0060"
+143.244.227.106,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.227.4,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.244.227.98,US,Broomfield,Colorado,"39.8854,-105.1139"
+143.255.248.141,EC,Quito,Pichincha,"-0.2298,-78.5250"
+144.121.35.236,US,New York City,New York,"40.7143,-74.0060"
+144.172.124.225,US,New York City,New York,"40.7143,-74.0060"
+144.208.208.134,AT,Vienna,Vienna,"48.2085,16.3721"
+144.208.208.142,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+144.208.208.17,AT,Vienna,Vienna,"48.2085,16.3721"
+144.208.208.186,AT,Vienna,Vienna,"48.2085,16.3721"
+144.208.211.106,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+144.208.211.58,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+144.208.229.33,IT,Milan,Lombardy,"45.4643,9.1895"
+145.145.128.7,NL,Amsterdam,North Holland,"52.3740,4.8897"
+145.145.176.105,NL,Delft,South Holland,"52.0067,4.3556"
+145.145.178.1,NL,Arnhem,Gelderland,"51.9800,5.9111"
+145.145.22.116,NL,The Hague,South Holland,"52.0767,4.2986"
+145.220.0.1,NL,Amsterdam,North Holland,"52.3740,4.8897"
+145.239.12.1,FR,Gravelines,Hauts-de-France,"50.9865,2.1281"
+145.249.228.157,KZ,Oral,Batys Qazaqstan,"51.2460,51.4256"
+145.254.2.207,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+146.185.214.1,AU,Sydney,New South Wales,"-33.8678,151.2073"
+146.185.219.3,IL,Petaẖ Tiqva,Central District,"32.0871,34.8875"
+146.185.78.161,CH,Sankt Gallen,Saint Gallen,"47.4239,9.3748"
+146.19.235.204,DE,Frankfurt am Main,Hesse,"50.1137,8.7119"
+146.228.2.101,CH,Zürich,Zurich,"47.3667,8.5500"
+146.228.2.142,CH,Zürich,Zurich,"47.3667,8.5500"
+146.228.2.94,CH,Zürich,Zurich,"47.3667,8.5500"
+146.228.2.97,CH,Zürich,Zurich,"47.3667,8.5500"
+146.228.52.153,CH,Zürich,Zurich,"47.3667,8.5500"
+146.247.170.200,SE,Stockholm,Stockholm,"59.3294,18.0687"
+146.247.200.151,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+146.247.200.157,NL,Amsterdam,North Holland,"52.3740,4.8897"
+146.255.63.193,AT,Vienna,Vienna,"48.2085,16.3721"
+146.255.64.29,MK,Skopje,Grad Skopje,"41.9965,21.4314"
+146.97.129.149,GB,Slough,England,"51.5095,-0.5954"
+146.97.33.1,GB,London,England,"51.5085,-0.1257"
+146.97.35.121,GB,London,England,"51.5085,-0.1257"
+146.97.35.198,GB,London,England,"51.5085,-0.1257"
+147.135.76.1,US,Ashburn,Virginia,"39.0437,-77.4875"
+147.251.240.1,CZ,Brno,South Moravian,"49.1952,16.6080"
+147.251.242.130,CZ,Brno,South Moravian,"49.1952,16.6080"
+147.251.58.1,CZ,Brno,South Moravian,"49.1952,16.6080"
+147.84.200.11,ES,Murcia,Murcia,"37.9870,-1.1300"
+148.163.219.18,BR,São Paulo,São Paulo,"-23.5475,-46.6361"
+148.163.223.1,CL,Santiago,Santiago Metropolitan,"-33.4569,-70.6483"
+148.222.224.4,CL,Santiago,Santiago Metropolitan,"-33.4569,-70.6483"
+148.225.112.250,MX,Hermosillo,Sonora,"29.0887,-110.9668"
+149.11.120.65,GR,Metamórfosi,Attica,"38.0658,23.7636"
+149.11.126.97,GB,Manchester,England,"53.4809,-2.2374"
+149.14.10.1,LT,Vilnius,Vilnius,"54.6892,25.2798"
+149.14.135.249,IT,Milan,Lombardy,"45.4643,9.1895"
+149.14.152.113,FR,Saint-Denis,Île-de-France,"48.9356,2.3539"
+149.3.164.114,AT,Salzburg,Salzburg,"47.7994,13.0440"
+149.3.164.118,AT,Salzburg,Salzburg,"47.7994,13.0440"
+149.38.12.116,IT,Milan,Lombardy,"45.4643,9.1895"
+149.38.4.50,AT,Vienna,Vienna,"48.2085,16.3721"
+149.56.53.126,CA,Beauharnois,Quebec,"45.3134,-73.8725"
+149.6.128.25,NL,Amsterdam,North Holland,"52.3740,4.8897"
+149.6.175.226,AT,Vienna,Vienna,"48.2085,16.3721"
+149.6.44.17,FR,Bordeaux,Nouvelle-Aquitaine,"44.8412,-0.5805"
+149.6.66.185,LU,Bettembourg,Esch-sur-Alzette,"49.5186,6.1028"
+149.62.152.161,FR,Paris,Île-de-France,"48.8534,2.3488"
+149.62.152.222,FR,Paris,Île-de-France,"48.8534,2.3488"
+149.62.153.185,FR,Paris,Île-de-France,"48.8534,2.3488"
+150.164.1.129,BR,Belo Horizonte,Minas Gerais,"-19.9208,-43.9378"
+150.164.1.193,BR,Belo Horizonte,Minas Gerais,"-19.9208,-43.9378"
+150.164.164.1,BR,Belo Horizonte,Minas Gerais,"-19.9208,-43.9378"
+150.99.18.37,JP,Osaka,Osaka,"34.6938,135.5011"
+150.99.191.185,JP,Kyoto,Kyoto,"35.0211,135.7538"
+151.232.60.33,IR,Shiraz,Fars,"29.6103,52.5311"
+151.248.105.56,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+153.92.43.200,GB,London,England,"51.5085,-0.1257"
+153.92.43.237,GB,London,England,"51.5085,-0.1257"
+153.92.43.246,GB,London,England,"51.5085,-0.1257"
+153.92.43.254,GB,Redhill,England,"51.2405,-0.1704"
+154.11.6.220,CA,Montréal,Quebec,"45.5088,-73.5878"
+154.14.158.9,ES,Madrid,Madrid,"40.4165,-3.7026"
+154.24.26.133,US,Kansas City,Missouri,"39.0997,-94.5786"
+154.24.30.173,US,Miami,Florida,"25.7743,-80.1937"
+154.24.5.197,US,Jacksonville,Florida,"30.3322,-81.6556"
+154.24.54.173,US,Durham,North Carolina,"35.9940,-78.8986"
+154.25.0.69,FR,Bordeaux,Nouvelle-Aquitaine,"44.8412,-0.5805"
+154.25.10.93,IT,Milan,Lombardy,"45.4643,9.1895"
+154.25.14.189,ES,Madrid,Madrid,"40.4165,-3.7026"
+154.25.15.69,ES,Madrid,Madrid,"40.4165,-3.7026"
+154.25.17.166,SI,Ljubljana,Ljubljana,"46.0511,14.5051"
+154.25.8.201,IT,Milan,Lombardy,"45.4643,9.1895"
+154.54.160.13,CL,Santiago,Santiago Metropolitan,"-33.4569,-70.6483"
+154.54.161.162,US,Tulsa,Oklahoma,"36.1540,-95.9928"
+154.54.162.45,US,Portland,Oregon,"45.5234,-122.6762"
+154.54.163.205,US,Aetna Estates,Colorado,"39.7381,-104.6732"
+154.54.164.25,US,Seattle,Washington,"47.6062,-122.3321"
+154.54.165.29,US,Dallas,Texas,"32.7831,-96.8067"
+154.54.166.69,US,El Paso,Texas,"31.7587,-106.4869"
+154.54.166.74,US,Chicago,Illinois,"41.8500,-87.6500"
+154.54.168.86,US,Miami,Florida,"25.7743,-80.1937"
+154.54.168.94,US,Miami,Florida,"25.7743,-80.1937"
+154.54.169.198,US,Albany,New York,"42.6526,-73.7562"
+154.54.169.225,US,Boston,Massachusetts,"42.3584,-71.0598"
+154.54.170.133,NZ,Auckland,Auckland,"-36.8485,174.7635"
+154.54.170.225,US,Washington,District of Columbia,"38.8951,-77.0364"
+154.54.170.94,US,Miami,Florida,"25.7743,-80.1937"
+154.54.171.209,US,Charlotte,North Carolina,"35.2271,-80.8431"
+154.54.171.86,US,Miami,Florida,"25.7743,-80.1937"
+154.54.172.169,US,Washington,District of Columbia,"38.8951,-77.0364"
+154.54.3.29,US,Miami,Florida,"25.7743,-80.1937"
+154.54.31.157,US,Portland,Oregon,"45.5234,-122.6762"
+154.54.31.234,CA,Toronto,Ontario,"43.7064,-79.3986"
+154.54.31.77,US,Seattle,Washington,"47.6062,-122.3321"
+154.54.31.94,US,Carter Lake,Iowa,"41.2906,-95.9181"
+154.54.37.141,GR,Thessaloníki,Central Macedonia,"40.6407,22.9349"
+154.54.38.114,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+154.54.39.129,PL,Warsaw,Mazovia,"52.2298,21.0118"
+154.54.39.145,FR,Bordeaux,Nouvelle-Aquitaine,"44.8412,-0.5805"
+154.54.39.66,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+154.54.40.137,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+154.54.42.90,US,Plattsburgh,New York,"44.6995,-73.4529"
+154.54.43.13,US,San Francisco,California,"37.7749,-122.4194"
+154.54.44.165,GB,Liverpool,England,"53.4106,-2.9779"
+154.54.45.161,US,Phoenix,Arizona,"33.4484,-112.0740"
+154.54.45.45,CA,Montréal,Quebec,"45.5088,-73.5878"
+154.54.46.101,US,Atlanta,Georgia,"33.7490,-84.3880"
+154.54.47.85,US,Miami,Florida,"25.7743,-80.1937"
+154.54.5.153,US,Salt Lake City,Utah,"40.7608,-111.8911"
+154.54.5.174,US,Los Angeles,California,"34.0522,-118.2437"
+154.54.58.70,NL,Amsterdam,North Holland,"52.3740,4.8897"
+154.54.59.154,ES,Madrid,Madrid,"40.4165,-3.7026"
+154.54.6.25,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+154.54.60.129,IT,Milan,Lombardy,"45.4643,9.1895"
+154.54.61.118,FR,Paris,Île-de-France,"48.8534,2.3488"
+154.54.61.133,ES,Bilbao,Basque Country,"43.2627,-2.9253"
+154.54.62.218,DE,Munich,Bavaria,"48.1374,11.5755"
+154.54.63.138,AT,Vienna,Vienna,"48.2085,16.3721"
+154.54.63.141,AT,Vienna,Vienna,"48.2085,16.3721"
+154.54.63.145,AT,Vienna,Vienna,"48.2085,16.3721"
+154.54.63.149,AT,Vienna,Vienna,"48.2085,16.3721"
+154.54.63.62,IT,Milan,Lombardy,"45.4643,9.1895"
+154.54.7.130,US,Brook Park,Ohio,"41.3984,-81.8046"
+154.54.7.21,US,San Jose,California,"37.3394,-121.8950"
+154.54.72.118,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+154.54.72.161,AT,Vienna,Vienna,"48.2085,16.3721"
+154.54.72.42,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+154.54.74.165,GB,London,England,"51.5085,-0.1257"
+154.54.75.101,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+154.54.75.137,FR,Paris,Île-de-France,"48.8534,2.3488"
+154.54.75.97,DE,Munich,Bavaria,"48.1374,11.5755"
+154.54.78.129,GB,Manchester,England,"53.4809,-2.2374"
+154.54.82.1,FR,Paris,Île-de-France,"48.8534,2.3488"
+154.54.82.245,US,Atlanta,Georgia,"33.7490,-84.3880"
+154.54.85.125,CL,Santiago,Santiago Metropolitan,"-33.4569,-70.6483"
+154.54.89.2,US,Carter Lake,Iowa,"41.2906,-95.9181"
+154.54.90.249,US,Kansas City,Missouri,"39.0997,-94.5786"
+154.54.94.46,GB,London,England,"51.5085,-0.1257"
+154.54.94.74,CA,Toronto,Ontario,"43.7064,-79.3986"
+154.54.95.110,US,Denver,Colorado,"39.7392,-104.9847"
+154.54.95.185,US,Tulsa,Oklahoma,"36.1540,-95.9928"
+154.54.95.242,US,Kansas City,Missouri,"39.0997,-94.5786"
+154.66.247.106,MW,Lilongwe,Central Region,"-13.9669,33.7873"
+154.66.247.139,GB,London,England,"51.5085,-0.1257"
+154.66.247.99,ES,Madrid,Madrid,"40.4165,-3.7026"
+154.82.159.46,PH,General Santos,Soccsksargen,"6.1128,125.1717"
+154.82.159.81,PH,General Santos,Soccsksargen,"6.1128,125.1717"
+155.232.1.121,ZA,Durban,KwaZulu-Natal,"-29.8579,31.0292"
+155.232.1.208,NL,Amsterdam,North Holland,"52.3740,4.8897"
+155.232.195.254,ZA,Pretoria,Gauteng,"-25.7449,28.1878"
+155.232.216.7,NL,Amsterdam,North Holland,"52.3740,4.8897"
+155.254.3.225,CA,Kitchener,Ontario,"43.4254,-80.5112"
+156.0.200.34,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+156.0.219.1,ZA,Claremont,Western Cape,"-33.9806,18.4653"
+156.146.32.92,CZ,Prague,Prague,"50.0880,14.4208"
+156.154.122.253,BR,Osasco,São Paulo,"-23.5325,-46.7917"
+156.154.123.253,CO,Bogotá,Bogota D.C.,"4.6097,-74.0817"
+156.154.135.253,ZA,Benoni,Gauteng,"-26.1885,28.3208"
+156.154.180.253,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+156.154.182.253,TW,Taipei,Taiwan,"25.0531,121.5264"
+156.154.183.253,IN,Mumbai,Maharashtra,"19.0728,72.8826"
+156.154.184.253,IN,Delhi,Delhi,"28.6519,77.2315"
+156.154.35.253,US,New York City,New York,"40.7143,-74.0060"
+156.154.36.253,US,San Jose,California,"37.3394,-121.8950"
+156.154.37.253,US,Miami,Florida,"25.7743,-80.1937"
+156.154.38.253,US,Los Angeles,California,"34.0522,-118.2437"
+156.154.40.253,US,Dallas,Texas,"32.7831,-96.8067"
+156.154.53.253,AE,Dubai,Dubai,"25.0772,55.3093"
+156.154.76.253,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+156.154.77.253,NL,Amsterdam,North Holland,"52.3740,4.8897"
+156.154.78.253,FR,Paris,Île-de-France,"48.8534,2.3488"
+156.154.79.253,ES,Madrid,Madrid,"40.4165,-3.7026"
+156.154.80.253,GB,Slough,England,"51.5095,-0.5954"
+156.255.140.41,VE,Maracaibo,Zulia,"10.6423,-71.6109"
+157.10.21.0,ID,Jakarta,Jakarta,"-6.1778,106.8269"
+157.20.113.1,AU,Sydney,New South Wales,"-33.8678,151.2073"
+157.20.147.16,PK,Lahore,Punjab,"31.5580,74.3507"
+157.238.225.194,US,Dallas,Texas,"32.7831,-96.8067"
+157.238.227.120,CA,Toronto,Ontario,"43.7064,-79.3986"
+157.238.231.156,US,Seattle,Washington,"47.6062,-122.3321"
+157.25.255.239,PL,Bielany,Mazovia,"52.2924,20.9353"
+158.64.14.121,LU,Esch-sur-Alzette,Esch-sur-Alzette,"49.4958,5.9806"
+158.64.16.72,LU,Luxembourg,Luxembourg,"49.6098,6.1327"
+160.20.123.1,IN,Tokūru,Karnataka,"12.9638,74.8380"
+160.202.164.212,AU,Sydney,New South Wales,"-33.8678,151.2073"
+160.202.164.214,AU,Sydney,New South Wales,"-33.8678,151.2073"
+160.22.48.2,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+160.22.48.39,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+160.22.48.4,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+160.22.48.43,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+160.22.48.48,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+160.30.224.18,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+160.30.224.2,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+160.30.98.1,TW,Taipei,Taiwan,"25.0531,121.5264"
+160.30.99.1,TW,Taipei,Taiwan,"25.0531,121.5264"
+160.72.248.137,US,New York City,New York,"40.7143,-74.0060"
+160.99.1.12,RS,Niš,Central Serbia,"43.3247,21.9033"
+161.53.251.17,HR,Zagreb,Zagreb,"45.8144,15.9780"
+162.243.189.148,US,New York City,New York,"40.7143,-74.0060"
+162.243.190.6,CA,Toronto,Ontario,"43.7064,-79.3986"
+162.245.206.226,US,El Segundo,California,"33.9192,-118.4165"
+162.251.161.1,US,Phoenix,Arizona,"33.4484,-112.0740"
+162.255.145.4,US,New York City,New York,"40.7143,-74.0060"
+162.255.146.16,US,New York City,New York,"40.7143,-74.0060"
+163.47.131.129,NZ,Auckland,Auckland,"-36.8485,174.7635"
+163.47.241.172,NZ,Auckland,Auckland,"-36.8485,174.7635"
+163.47.241.173,NZ,Auckland,Auckland,"-36.8485,174.7635"
+163.61.41.65,NP,Kathmandu,Bagmati Province,"27.7017,85.3206"
+165.140.127.1,US,Elk Grove Village,Illinois,"42.0039,-87.9703"
+166.0.67.2,US,Irving,Texas,"32.8140,-96.9489"
+166.0.67.3,US,Irving,Texas,"32.8140,-96.9489"
+167.150.200.33,SE,Stockholm,Stockholm,"59.3294,18.0687"
+167.98.32.216,GB,London,England,"51.5085,-0.1257"
+168.194.149.17,EC,Riobamba,Chimborazo Province,"-1.6651,-78.6589"
+168.196.255.92,AR,Morteros,Cordoba,"-30.7107,-62.0071"
+168.209.160.108,GB,London,England,"51.5085,-0.1257"
+168.209.160.109,GB,London,England,"51.5085,-0.1257"
+168.209.246.1,GB,London,England,"51.5085,-0.1257"
+168.209.246.66,GB,London,England,"51.5085,-0.1257"
+168.227.255.225,AR,Tostado,Santa Fe,"-29.2327,-61.7687"
+168.227.255.237,AR,Tostado,Santa Fe,"-29.2327,-61.7687"
+168.235.89.1,US,Piscataway,New Jersey,"40.4993,-74.3990"
+169.255.161.112,MU,Beau Bassin-Rose Hill,Plaines Wilhems,"-20.2333,57.4661"
+170.210.0.17,AR,Buenos Aires,Buenos Aires F.D.,"-34.6131,-58.3772"
+170.210.0.35,AR,Buenos Aires,Buenos Aires F.D.,"-34.6131,-58.3772"
+170.238.234.137,BR,Fortaleza,Ceará,"-3.7172,-38.5431"
+170.247.92.1,CL,Santiago,Santiago Metropolitan,"-33.4569,-70.6483"
+170.247.92.53,US,Miami,Florida,"25.7743,-80.1937"
+170.247.95.246,CL,Concepción,Biobío,"-36.8270,-73.0498"
+170.247.95.57,CL,Santiago,Santiago Metropolitan,"-33.4569,-70.6483"
+170.247.95.86,CL,Santiago,Santiago Metropolitan,"-33.4569,-70.6483"
+170.254.172.1,VE,Maturín,Monagas,"9.7457,-63.1832"
+170.39.178.129,US,Chicago,Illinois,"41.8500,-87.6500"
+170.39.225.2,US,Kansas City,Missouri,"39.3432,-94.8516"
+170.39.225.4,US,North Kansas City,Missouri,"39.1300,-94.5622"
+170.39.226.10,US,Secaucus,New Jersey,"40.7895,-74.0565"
+170.39.226.22,US,Secaucus,New Jersey,"40.7895,-74.0565"
+170.39.227.11,US,Seattle,Washington,"47.6062,-122.3321"
+170.39.227.2,US,Seattle,Washington,"47.6062,-122.3321"
+170.39.230.241,CA,Toronto,Ontario,"43.7064,-79.3986"
+170.39.230.242,CA,Toronto,Ontario,"43.7064,-79.3986"
+170.39.230.248,CA,Toronto,Ontario,"43.7064,-79.3986"
+170.39.230.253,CA,Toronto,Ontario,"43.7064,-79.3986"
+170.39.230.254,CA,Toronto,Ontario,"43.7064,-79.3986"
+170.39.49.1,CA,Montréal,Quebec,"45.5088,-73.5878"
+170.39.49.49,CA,Montréal,Quebec,"45.5088,-73.5878"
+170.79.213.108,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.121,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.13,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.135,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.139,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.15,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.154,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.229,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.31,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.213.47,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.214.36,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.79.214.60,BR,Rio de Janeiro,Rio de Janeiro,"-22.9064,-43.1822"
+170.81.100.97,BR,Salvador,Bahia,"-12.9756,-38.4910"
+170.81.102.62,BR,Salvador,Bahia,"-12.9756,-38.4910"
+171.244.19.254,VN,Ho Chi Minh City,Ho Chi Minh City (HCMC),"10.8230,106.6296"
+171.75.8.165,AT,Vienna,Vienna,"48.2085,16.3721"
+171.75.9.23,NL,Amsterdam,North Holland,"52.3740,4.8897"
+171.75.9.31,AT,Vienna,Vienna,"48.2085,16.3721"
+172.83.206.217,US,Miami,Florida,"25.7743,-80.1937"
+172.93.18.41,CA,Longueuil,Quebec,"45.5152,-73.4682"
+172.98.48.130,US,Washington,District of Columbia,"38.9067,-77.0312"
+172.98.49.135,US,New York City,New York,"40.7143,-74.0060"
+172.98.51.130,GB,London,England,"51.5085,-0.1257"
+173.208.128.131,US,Kansas City,Missouri,"39.0997,-94.5786"
+173.208.226.65,US,Kansas City,Missouri,"39.0997,-94.5786"
+173.208.233.9,US,Kansas City,Missouri,"39.0997,-94.5786"
+173.219.218.146,US,Tyler,Texas,"32.3254,-95.2922"
+173.219.218.78,US,Tyler,Texas,"32.3254,-95.2922"
+173.219.232.220,US,Tyler,Texas,"32.3254,-95.2922"
+173.225.174.8,US,Sacramento,California,"38.5816,-121.4944"
+173.230.159.134,US,Santa Clara,California,"37.3541,-121.9552"
+173.246.102.2,FR,Paris,Île-de-France,"48.8534,2.3488"
+173.246.102.33,FR,Paris,Île-de-France,"48.8534,2.3488"
+173.246.102.34,FR,Paris,Île-de-France,"48.8534,2.3488"
+173.246.102.4,FR,Paris,Île-de-France,"48.8534,2.3488"
+173.248.145.17,US,Denver,Colorado,"39.7392,-104.9847"
+176.10.178.206,SE,Stockholm,Stockholm,"59.3294,18.0687"
+176.10.178.40,SE,Stockholm,Stockholm,"59.3294,18.0687"
+176.10.182.38,SE,Malmö,Skåne,"55.6059,13.0007"
+176.114.16.1,RU,Chita,Zabaykalskiy (Transbaikal) Kray,"52.0431,113.4917"
+176.119.210.1,GR,Athens,Attica,"37.9838,23.7278"
+176.119.210.254,GR,Athens,Attica,"37.9838,23.7278"
+176.52.248.250,ES,Madrid,Madrid,"40.4165,-3.7026"
+176.74.17.65,GB,Manchester,England,"53.4809,-2.2374"
+176.74.23.220,GB,Manchester,England,"53.4809,-2.2374"
+176.74.23.244,GB,Manchester,England,"53.4809,-2.2374"
+176.74.23.246,GB,London,England,"51.5085,-0.1257"
+177.234.194.192,EC,Guayaquil,Guayas,"-2.1962,-79.8862"
+177.242.222.96,MX,Hermosillo,Sonora,"29.0887,-110.9668"
+177.85.156.62,BR,Poxoréu,Mato Grosso,"-15.8372,-54.3892"
+178.132.80.137,BG,Sofia,Sofia-Capital,"42.6975,23.3241"
+178.132.82.81,BG,Sofia,Sofia-Capital,"42.6975,23.3241"
+178.16.60.134,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+178.16.60.81,DE,Espelkamp,North Rhine-Westphalia,"52.3825,8.6213"
+178.172.80.0,SI,Ljubljana,Ljubljana,"46.0511,14.5051"
+178.172.81.230,SI,Ljubljana,Ljubljana,"46.0511,14.5051"
+178.19.49.1,NL,Amsterdam,North Holland,"52.3740,4.8897"
+178.21.23.2,NL,Dronten,Flevoland,"52.5250,5.7181"
+178.22.128.64,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.22.135.103,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.22.135.105,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.22.135.16,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.22.135.21,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.22.135.22,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.22.135.30,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.236.74.65,SE,Lund,Skåne,"55.7058,13.1932"
+178.249.188.249,IT,Milan,Lombardy,"45.4643,9.1895"
+178.250.7.78,FR,Paris,Île-de-France,"48.8534,2.3488"
+178.251.24.2,NL,Enschede,Overijssel,"52.2183,6.8958"
+178.251.29.168,NL,Doetinchem,Gelderland,"51.9650,6.2889"
+178.251.29.4,NL,Amsterdam,North Holland,"52.3740,4.8897"
+178.251.64.49,AT,Vienna,Vienna,"48.2085,16.3721"
+178.251.92.222,DE,Calw,Baden-Wurttemberg,"48.7142,8.7403"
+178.255.145.173,NO,Oslo,Oslo,"59.9127,10.7461"
+178.255.145.201,GB,London,England,"51.5085,-0.1257"
+178.255.155.121,IT,Milan,Lombardy,"45.4643,9.1895"
+179.0.200.33,PA,Panamá,Panamá,"8.9936,-79.5197"
+179.1.65.77,CO,Bogotá,Bogota D.C.,"4.6097,-74.0817"
+179.31.59.225,UY,Montevideo,Montevideo Department,"-34.9033,-56.1882"
+179.31.59.228,UY,Montevideo,Montevideo Department,"-34.9033,-56.1882"
+179.31.59.229,UY,Montevideo,Montevideo Department,"-34.9033,-56.1882"
+179.31.59.241,UY,Montevideo,Montevideo Department,"-34.9033,-56.1882"
+179.31.62.39,UY,Montevideo,Montevideo Department,"-34.9033,-56.1882"
+179.31.62.94,UY,Montevideo,Montevideo Department,"-34.9033,-56.1882"
+179.43.96.83,PE,Arequipa,Arequipa,"-16.3705,-71.5543"
+180.149.92.53,MN,Ulan Bator,Ulaanbaatar,"47.9077,106.8832"
+180.149.95.158,MN,Ulan Bator,Ulaanbaatar,"47.9077,106.8832"
+180.149.98.145,MN,Ulan Bator,Ulaanbaatar,"47.9077,106.8832"
+180.179.197.213,IN,Delhi,Delhi,"28.6519,77.2315"
+180.179.210.65,IN,Delhi,Delhi,"28.6519,77.2315"
+180.211.88.21,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+180.240.192.233,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+180.240.193.93,ID,Batam,Riau,"1.1494,104.0249"
+180.87.108.80,SG,Singapore,Singapore,"1.2897,103.8501"
+180.87.151.28,JP,Chiba,Chiba,"35.6000,140.1167"
+180.87.151.32,JP,Chiba,Chiba,"35.6000,140.1167"
+180.87.38.29,IN,Mumbai,Maharashtra,"19.0728,72.8826"
+180.87.38.5,IN,Mumbai,Maharashtra,"19.0728,72.8826"
+180.87.54.82,SG,Singapore,Singapore,"1.2897,103.8501"
+180.87.76.78,TW,Taipei,Taiwan,"25.0531,121.5264"
+181.191.191.34,MX,Mérida,Yucatán,"20.9670,-89.6232"
+181.193.144.13,CR,Santa Cruz,Guanacaste Province,"10.2605,-85.5851"
+181.224.222.1,CO,Contratación,Santander Department,"6.2900,-73.4735"
+181.233.48.1,EC,Guayaquil,Guayas,"-2.1370,-79.9087"
+181.78.120.101,PA,Panamá,Panamá,"8.9936,-79.5197"
+181.78.195.33,EC,Quito,Pichincha,"-0.2298,-78.5250"
+181.89.51.39,AR,Buenos Aires,Buenos Aires F.D.,"-34.6131,-58.3772"
+181.96.113.234,AR,Buenos Aires,Buenos Aires F.D.,"-34.6131,-58.3772"
+181.96.113.244,AR,Córdoba,Cordoba,"-31.4065,-64.1885"
+181.96.22.48,AR,Tostado,Santa Fe,"-29.2327,-61.7687"
+182.161.73.40,SG,Woodlands,Singapore,"1.4380,103.7888"
+182.161.74.240,JP,Minato City,Tokyo,"35.6581,139.7515"
+182.253.100.233,ID,Jakarta,Jakarta,"-6.2146,106.8451"
+182.253.187.118,ID,Batam,Riau,"1.1494,104.0249"
+184.104.188.101,GB,London,England,"51.5085,-0.1257"
+184.104.188.148,US,Chicago,Illinois,"41.8500,-87.6500"
+184.104.188.173,US,San Jose,California,"37.3394,-121.8950"
+184.104.188.180,US,San Jose,California,"37.3394,-121.8950"
+184.104.188.205,US,San Jose,California,"37.3394,-121.8950"
+184.104.189.120,US,New York City,New York,"40.7143,-74.0060"
+184.104.189.137,CA,Calgary,Alberta,"51.0501,-114.0853"
+184.104.189.19,FR,Paris,Île-de-France,"48.8534,2.3488"
+184.104.191.233,GR,Athens,Attica,"37.9838,23.7278"
+184.104.192.105,SE,Stockholm,Stockholm,"59.3294,18.0687"
+184.104.192.114,US,Portland,Oregon,"45.5234,-122.6762"
+184.104.192.188,US,Miami,Florida,"25.7743,-80.1937"
+184.104.192.238,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+184.104.192.69,US,Grand Forks,North Dakota,"47.9253,-97.0328"
+184.104.192.97,EE,Tallinn,Harjumaa,"59.4370,24.7535"
+184.104.193.113,AT,Vienna,Vienna,"48.2085,16.3721"
+184.104.193.126,CH,Genève,Geneva,"46.2022,6.1457"
+184.104.193.133,CH,Zürich,Zurich,"47.3667,8.5500"
+184.104.193.174,US,New York City,New York,"40.7143,-74.0060"
+184.104.193.250,RS,Belgrade,Central Serbia,"44.8040,20.4651"
+184.104.194.105,DE,Frankfurt am Main,Hesse,"50.1155,8.6842"
+184.104.194.109,LU,Luxembourg,Luxembourg,"49.6098,6.1327"
+184.104.194.198,US,Philadelphia,Pennsylvania,"39.9524,-75.1636"
+184.104.194.200,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+184.104.194.21,US,Minneapolis,Minnesota,"44.9800,-93.2638"
+184.104.194.249,US,New York City,New York,"40.7143,-74.0060"
+184.104.195.113,US,San Jose,California,"37.3394,-121.8950"
+184.104.195.169,RS,Belgrade,Central Serbia,"44.8040,20.4651"
+184.104.195.214,US,Kansas City,Missouri,"39.0997,-94.5786"
+184.104.195.45,US,Seattle,Washington,"47.6062,-122.3321"
+184.104.195.93,BG,Sofia,Sofia-Capital,"42.6975,23.3241"
+184.104.196.117,NZ,Auckland,Auckland,"-36.8485,174.7635"
+184.104.196.177,US,New York City,New York,"40.7143,-74.0060"
+184.104.196.230,FR,Paris,Île-de-France,"48.8534,2.3488"
+184.104.197.237,HK,Hong Kong,Hong Kong,"22.2783,114.1747"
+184.104.198.109,US,Denver,Colorado,"39.7392,-104.9847"
+184.104.198.125,GB,London,England,"51.5085,-0.1257"
+184.104.198.145,US,New York City,New York,"40.7143,-74.0060"
+184.104.198.213,US,Draper,Utah,"40.5247,-111.8638"
+184.104.198.253,US,San Jose,California,"37.3394,-121.8950"
+184.104.198.33,US,Kansas City,Missouri,"39.0997,-94.5786"
+184.104.198.37,US,New York City,New York,"40.7143,-74.0060"
+184.104.199.10,JP,Yokohama,Kanagawa,"35.4333,139.6500"
+184.104.199.105,US,Denver,Colorado,"39.7392,-104.9847"
+184.104.199.149,SG,Singapore,Singapore,"1.2897,103.8501"
+184.104.199.182,SG,Singapore,Singapore,"1.2897,103.8501"
+184.104.199.201,US,Chicago,Illinois,"41.8500,-87.6500"
+184.104.199.22,US,New York City,New York,"40.7143,-74.0060"
+184.104.199.221,US,New York City,New York,"40.7143,-74.0060"
+184.104.204.129,FI,Helsinki,Uusimaa,"60.1695,24.9354"
+184.104.205.105,GR,Athens,Attica,"37.9838,23.7278"
+184.104.206.193,AL,Tirana,Tirana,"41.3274,19.8187"
+184.104.206.253,BE,Brussels,Brussels Capital,"50.8505,4.3488"
+184.104.206.65,FR,Paris,Île-de-France,"48.8534,2.3488"
+184.104.207.165,FR,Paris,Île-de-France,"48.8534,2.3488"
+184.104.208.73,JP,Tokyo,Tokyo,"35.6895,139.6917"
+184.104.210.181,SG,Singapore,Singapore,"1.2897,103.8501"
+184.104.231.214,MK,Skopje,Grad Skopje,"41.9965,21.4314"
+184.104.236.33,US,Chicago,Illinois,"41.8500,-87.6500"
+184.105.213.117,US,Seattle,Washington,"47.6062,-122.3321"
+184.105.213.140,US,New York City,New York,"40.7143,-74.0060"
+184.105.222.1,US,New York City,New York,"40.7143,-74.0060"
+184.105.222.130,SK,Bratislava,Bratislava Region,"48.1482,17.1067"
+184.105.222.14,US,San Jose,California,"37.3394,-121.8950"
+184.105.222.189,US,New York City,New York,"40.7143,-74.0060"
+184.105.222.6,US,San Jose,California,"37.3394,-121.8950"
+184.105.222.9,FR,Marseille,Provence-Alpes-Côte d'Azur,"43.2970,5.3811"
+184.105.222.97,US,Fargo,North Dakota,"46.8772,-96.7898"
+184.105.223.121,US,New York City,New York,"40.7143,-74.0060"
+184.105.223.253,GB,London,England,"51.5085,-0.1257"
+184.105.246.201,CA,Saskatoon,Saskatchewan,"52.1324,-106.6689"
+184.105.250.69,US,Minneapolis,Minnesota,"44.9800,-93.2638"
+184.105.64.101,CA,Toronto,Ontario,"43.7064,-79.3986"
+184.105.64.169,BG,Sofia,Sofia-Capital,"42.6975,23.3241"
+184.105.65.220,US,Billings,Montana,"45.7833,-108.5007"
+184.105.65.51,US,New York City,New York,"40.7143,-74.0060"
+184.105.65.73,AT,Vienna,Vienna,"48.2085,16.3721"
+184.105.80.125,US,Missoula,Montana,"46.8721,-113.9940"
+184.105.80.9,US,New York City,New York,"40.7143,-74.0060"
+184.105.81.211,US,Washington,District of Columbia,"38.8951,-77.0364"
+184.105.81.42,GB,London,England,"51.5085,-0.1257"
+185.0.20.190,CZ,Brno,South Moravian,"49.1952,16.6080"
+185.0.21.31,CZ,Prague,Prague,"50.0880,14.4208"
+185.0.42.7,NL,Amsterdam,North Holland,"52.3740,4.8897"
+185.1.226.181,BG,Sofia,Sofia-Capital,"42.6975,23.3241"
+185.1.27.4,RS,Vračar,Central Serbia,"44.7926,20.4749"
+185.1.31.9,AT,Hall in Tirol,Tyrol,"47.2833,11.5167"
+185.1.43.14,AT,Salzburg,Salzburg,"47.7994,13.0440"
+185.1.64.225,RU,Novosibirsk,Novosibirsk Oblast,"55.0226,82.9317"
+185.1.74.26,DE,Berlin,State of Berlin,"52.5244,13.4105"
+185.1.93.20,CH,Lausanne,Vaud,"46.5160,6.6328"
+185.10.164.113,ES,Barcelona,Catalonia,"41.3984,2.2005"
+185.10.164.129,ES,Barcelona,Catalonia,"41.3984,2.2005"
+185.10.164.201,ES,Barcelona,Catalonia,"41.3984,2.2005"
+185.10.164.44,ES,Barcelona,Catalonia,"41.3984,2.2005"
+185.10.164.76,ES,Barcelona,Catalonia,"41.3984,2.2005"
+185.101.95.1,DE,Düsseldorf,North Rhine-Westphalia,"51.2217,6.7762"
+185.102.104.113,DE,Hamburg,Hamburg,"53.5507,9.9930"
+185.102.104.190,DE,Hamburg,Hamburg,"53.6090,10.0860"
+185.102.104.222,DE,Hamburg,Hamburg,"53.6090,10.0860"
+185.102.84.251,US,Fremont,California,"37.5483,-121.9886"
+185.104.124.5,IT,Capaccio Scalo,Campania,"40.4553,15.0089"
+185.104.160.7,DE,Spelle,Lower Saxony,"52.3667,7.4667"
+185.107.116.21,NL,Amsterdam,North Holland,"52.3740,4.8897"
+185.108.68.169,PL,Oleśnica,Lower Silesia,"51.2134,17.3899"
+185.11.76.22,BY,Minsk,Minsk City,"53.9002,27.5665"
+185.11.76.30,BY,Minsk,Minsk City,"53.9002,27.5665"
+185.111.204.124,BE,Tremelo,Flanders,"50.9923,4.7081"
+185.111.204.32,BE,Leuven,Flanders,"50.8796,4.7009"
+185.113.24.113,,,,
+185.119.168.4,,,,
+185.121.168.1,,,,
+185.122.100.33,,,,
+185.126.112.1,,,,
+185.126.7.1,,,,
+185.131.204.1,,,,
+185.138.143.33,,,,
+185.138.41.3,,,,
+185.138.43.136,,,,
+185.138.55.233,,,,
+185.138.55.75,,,,
+185.138.55.76,,,,
+185.139.168.1,,,,
+185.143.169.10,,,,
+185.143.169.108,,,,
+185.144.72.1,,,,
+185.144.72.130,,,,
+185.144.72.162,,,,
+185.145.196.197,,,,
+185.146.230.108,,,,
+185.146.230.139,,,,
+185.146.230.177,,,,
+185.146.230.178,,,,
+185.146.230.187,,,,
+185.146.230.21,,,,
+185.146.230.221,,,,
+185.146.230.222,,,,
+185.146.230.236,,,,
+185.146.230.24,,,,
+185.146.230.245,,,,
+185.146.230.250,,,,
+185.146.230.46,,,,
+185.146.230.88,,,,
+185.146.230.90,,,,
+185.15.231.209,,,,
+185.15.59.156,,,,
+185.15.59.73,,,,
+185.157.208.241,,,,
+185.157.231.48,,,,
+185.157.244.224,,,,
+185.157.244.227,,,,
+185.161.192.1,,,,
+185.168.87.14,,,,
+185.168.87.9,,,,
+185.17.243.229,,,,
+185.17.243.255,,,,
+185.17.70.66,,,,
+185.171.140.78,,,,
+185.171.141.50,,,,
+185.171.141.61,,,,
+185.171.142.159,,,,
+185.171.142.161,,,,
+185.173.128.65,,,,
+185.173.16.131,,,,
+185.173.16.165,,,,
+185.178.172.2,,,,
+185.18.172.199,,,,
+185.18.172.217,,,,
+185.18.172.242,,,,
+185.18.172.89,,,,
+185.18.173.177,,,,
+185.18.174.79,,,,
+185.181.224.2,,,,
+185.181.228.1,,,,
+185.182.244.27,,,,
+185.182.246.155,,,,
+185.182.247.162,,,,
+185.182.247.171,,,,
+185.184.236.26,,,,
+185.185.135.20,,,,
+185.185.244.251,,,,
+185.188.187.68,,,,
+185.188.199.34,,,,
+185.188.44.254,,,,
+185.188.47.237,,,,
+185.193.244.10,,,,
+185.193.244.25,,,,
+185.194.168.2,,,,
+185.195.117.153,,,,
+185.195.117.82,,,,
+185.195.236.0,,,,
+185.196.242.78,,,,
+185.20.122.136,,,,
+185.20.123.43,,,,
+185.201.254.5,,,,
+185.205.208.173,,,,
+185.206.148.80,,,,
+185.206.184.65,,,,
+185.206.184.98,,,,
+185.208.15.228,,,,
+185.209.172.145,,,,
+185.209.84.10,,,,
+185.211.231.145,,,,
+185.212.169.89,,,,
+185.214.245.196,,,,
+185.221.36.2,,,,
+185.222.11.3,,,,
+185.225.207.1,,,,
+185.229.133.5,,,,
+185.229.188.201,,,,
+185.229.189.130,,,,
+185.229.28.5,,,,
+185.229.88.1,,,,
+185.233.100.124,,,,
+185.233.32.212,,,,
+185.234.20.180,,,,
+185.238.241.32,,,,
+185.239.193.33,,,,
+185.241.204.77,,,,
+185.242.229.23,,,,
+185.244.192.2,,,,
+185.244.24.4,,,,
+185.244.24.91,,,,
+185.249.157.252,,,,
+185.249.157.255,,,,
+185.250.10.28,,,,
+185.250.8.108,,,,
+185.250.8.126,,,,
+185.251.115.164,,,,
+185.28.108.161,,,,
+185.28.108.250,,,,
+185.29.100.40,,,,
+185.29.203.233,,,,
+185.32.187.162,,,,
+185.32.187.166,,,,
+185.32.187.170,,,,
+185.32.187.207,,,,
+185.32.188.254,,,,
+185.33.109.5,,,,
+185.33.216.2,,,,
+185.33.217.135,,,,
+185.34.2.113,,,,
+185.34.2.12,,,,
+185.35.140.164,,,,
+185.35.147.162,,,,
+185.35.183.33,,,,
+185.35.183.67,,,,
+185.35.235.250,,,,
+185.36.180.1,,,,
+185.40.232.17,,,,
+185.40.232.201,,,,
+185.40.232.38,,,,
+185.41.106.85,,,,
+185.43.204.132,,,,
+185.5.200.255,,,,
+185.50.211.30,,,,
+185.50.211.37,,,,
+185.51.192.254,,,,
+185.52.225.14,,,,
+185.54.120.109,,,,
+185.54.120.157,,,,
+185.54.120.187,,,,
+185.54.28.237,,,,
+185.54.28.250,,,,
+185.54.80.2,,,,
+185.54.80.3,,,,
+185.54.81.1,,,,
+185.54.92.66,,,,
+185.54.92.67,,,,
+185.57.188.1,,,,
+185.6.36.117,,,,
+185.6.39.130,,,,
+185.60.88.227,,,,
+185.64.168.101,,,,
+185.64.168.123,,,,
+185.64.168.84,,,,
+185.65.243.214,,,,
+185.70.144.114,,,,
+185.70.202.113,,,,
+185.70.41.1,,,,
+185.70.43.227,,,,
+185.71.177.178,,,,
+185.74.25.162,,,,
+185.74.68.249,,,,
+185.78.163.109,,,,
+185.78.48.18,,,,
+185.78.48.241,,,,
+185.78.49.5,,,,
+185.8.106.8,,,,
+185.8.179.33,,,,
+185.8.179.35,,,,
+185.80.233.174,,,,
+185.83.119.1,,,,
+185.85.164.129,,,,
+185.86.232.131,,,,
+185.86.232.68,,,,
+185.86.67.65,,,,
+185.93.159.22,,,,
+185.93.174.65,,,,
+185.96.186.41,,,,
+185.97.160.3,,,,
+185.97.162.17,,,,
+185.98.130.225,,,,
+186.163.16.41,,,,
+186.167.85.41,,,,
+186.176.224.25,,,,
+186.4.1.205,,,,
+187.251.0.43,,,,
+187.251.2.148,,,,
+187.251.2.170,,,,
+187.251.2.173,,,,
+187.251.2.180,,,,
+187.251.2.226,,,,
+187.251.2.246,,,,
+187.251.2.249,,,,
+187.251.3.117,,,,
+188.1.145.129,,,,
+188.1.145.146,,,,
+188.1.145.197,,,,
+188.1.231.253,,,,
+188.1.234.229,,,,
+188.1.239.85,,,,
+188.1.241.185,,,,
+188.1.247.105,,,,
+188.124.38.129,,,,
+188.143.128.1,,,,
+188.170.184.170,,,,
+188.172.217.85,,,,
+188.241.28.36,PL,Katowice,Silesia,"50.2597,19.0217"
+188.246.240.1,,,,
+188.246.241.1,,,,
+188.43.2.66,,,,
+188.43.24.129,,,,
+188.43.24.130,,,,
+188.68.188.97,,,,
+188.93.174.25,,,,
+188.94.103.239,,,,
+188.94.96.181,,,,
+189.246.202.41,,,,
+189.247.172.42,,,,
+190.11.72.1,,,,
+190.124.192.129,,,,
+190.124.210.6,,,,
+190.129.248.1,,,,
+190.129.249.29,,,,
+190.129.252.16,,,,
+190.129.252.2,,,,
+190.210.110.214,,,,
+190.227.195.129,,,,
+190.227.196.45,,,,
+190.242.178.34,,,,
+190.242.178.60,,,,
+190.57.64.253,,,,
+190.57.65.1,,,,
+190.64.201.1,,,,
+190.64.221.142,,,,
+190.97.224.5,,,,
+190.97.232.49,,,,
+192.1.104.73,,,,
+192.108.116.201,,,,
+192.109.82.93,,,,
+192.12.54.190,,,,
+192.134.1.30,,,,
+192.136.74.1,,,,
+192.158.252.3,,,,
+192.192.61.162,,,,
+192.192.61.66,,,,
+192.192.68.30,,,,
+192.205.32.194,,,,
+192.240.191.164,,,,
+192.240.191.186,,,,
+192.248.121.254,,,,
+192.248.126.254,,,,
+192.30.89.82,,,,
+192.33.139.40,,,,
+192.33.139.81,,,,
+192.35.202.241,,,,
+192.36.132.254,,,,
+192.38.7.38,,,,
+192.42.42.113,,,,
+192.42.42.165,,,,
+192.42.42.33,,,,
+192.42.97.209,,,,
+192.42.97.213,,,,
+192.44.83.5,,,,
+192.5.203.209,,,,
+192.5.208.186,,,,
+192.5.208.190,,,,
+192.5.208.196,,,,
+192.65.185.143,,,,
+192.73.253.1,,,,
+192.82.55.144,,,,
+192.82.55.64,,,,
+192.99.146.126,,,,
+192.99.146.132,,,,
+193.0.3.5,,,,
+193.104.214.11,,,,
+193.104.214.12,,,,
+193.104.214.6,,,,
+193.105.163.132,,,,
+193.105.163.133,,,,
+193.111.213.209,,,,
+193.111.37.105,,,,
+193.111.38.45,,,,
+193.124.76.197,,,,
+193.135.150.231,,,,
+193.135.150.62,,,,
+193.138.218.49,,,,
+193.141.27.221,,,,
+193.145.15.49,,,,
+193.148.250.1,,,,
+193.148.251.238,,,,
+193.150.67.193,,,,
+193.163.102.194,,,,
+193.163.86.251,,,,
+193.164.153.172,,,,
+193.164.153.207,,,,
+193.167.244.180,,,,
+193.167.67.26,,,,
+193.169.52.1,,,,
+193.17.192.162,,,,
+193.17.90.12,,,,
+193.17.90.33,,,,
+193.170.114.241,,,,
+193.171.255.1,,,,
+193.178.0.60,,,,
+193.178.0.92,,,,
+193.180.242.85,,,,
+193.180.242.92,,,,
+193.188.137.153,,,,
+193.188.137.37,,,,
+193.19.208.1,,,,
+193.19.208.5,,,,
+193.191.18.9,,,,
+193.191.3.85,,,,
+193.197.63.6,,,,
+193.200.43.84,,,,
+193.201.157.136,,,,
+193.201.40.209,,,,
+193.203.0.121,,,,
+193.203.0.160,,,,
+193.203.0.182,,,,
+193.203.0.2,,,,
+193.229.29.196,,,,
+193.232.226.57,,,,
+193.242.223.3,,,,
+193.247.171.237,,,,
+193.27.55.151,,,,
+193.27.55.17,,,,
+193.27.55.212,,,,
+193.28.236.245,,,,
+193.28.236.246,,,,
+193.28.236.36,,,,
+193.3.165.33,,,,
+193.3.231.157,,,,
+193.30.242.169,,,,
+193.30.34.50,,,,
+193.33.94.251,,,,
+193.37.144.29,,,,
+193.4.59.195,IS,Reykjavík,Capital Region,"64.1355,-21.8954"
+193.4.59.200,,,,
+193.41.248.207,,,,
+193.41.248.53,,,,
+193.41.57.31,,,,
+193.41.88.46,,,,
+193.46.104.1,,,,
+193.49.43.99,,,,
+193.50.97.161,,,,
+193.51.177.174,,,,
+193.51.180.172,,,,
+193.51.181.94,,,,
+193.51.188.10,,,,
+193.54.185.9,,,,
+193.55.204.14,,,,
+193.57.144.254,,,,
+193.57.167.1,,,,
+193.65.45.85,,,,
+194.116.150.2,,,,
+194.116.76.253,,,,
+194.122.76.245,,,,
+194.145.125.1,,,,
+194.145.140.2,,,,
+194.146.214.123,,,,
+194.156.155.5,,,,
+194.179.134.12,,,,
+194.186.168.65,,,,
+194.187.172.101,,,,
+194.187.174.4,,,,
+194.187.89.72,,,,
+194.187.91.16,,,,
+194.228.158.73,,,,
+194.228.21.250,,,,
+194.230.35.116,,,,
+194.242.34.201,,,,
+194.244.175.1,,,,
+194.246.109.8,,,,
+194.31.131.43,,,,
+194.31.131.65,,,,
+194.31.131.80,,,,
+194.36.75.1,,,,
+194.39.187.217,,,,
+194.39.187.222,,,,
+194.39.187.229,,,,
+194.39.187.241,,,,
+194.5.240.1,,,,
+194.50.88.133,,,,
+194.50.88.38,,,,
+194.50.92.251,,,,
+194.50.99.251,,,,
+194.53.172.71,,,,
+194.56.191.1,,,,
+194.67.59.12,,,,
+194.68.123.157,,,,
+194.68.41.1,,,,
+194.8.133.1,,,,
+194.81.236.228,,,,
+195.110.184.1,,,,
+195.128.254.12,,,,
+195.128.254.30,,,,
+195.128.255.127,,,,
+195.128.255.51,,,,
+195.130.45.13,,,,
+195.130.45.43,,,,
+195.130.66.102,,,,
+195.141.216.208,,,,
+195.154.2.104,,,,
+195.158.60.3,,,,
+195.16.80.2,,,,
+195.16.80.22,,,,
+195.16.81.2,,,,
+195.169.128.2,,,,
+195.178.64.212,,,,
+195.178.87.12,,,,
+195.187.255.178,,,,
+195.187.36.11,,,,
+195.189.60.2,,,,
+195.190.26.2,,,,
+195.191.197.147,,,,
+195.191.197.239,,,,
+195.191.197.77,,,,
+195.191.219.34,,,,
+195.191.219.50,,,,
+195.191.235.226,,,,
+195.191.35.17,,,,
+195.2.23.129,,,,
+195.2.3.37,,,,
+195.2.30.130,,,,
+195.200.235.2,,,,
+195.200.68.144,,,,
+195.200.68.65,,,,
+195.209.139.1,,,,
+195.219.175.83,,,,
+195.219.187.7,,,,
+195.219.69.104,,,,
+195.219.69.110,,,,
+195.219.87.198,,,,
+195.219.87.2,,,,
+195.22.192.169,,,,
+195.22.205.24,,,,
+195.22.211.209,,,,
+195.22.211.61,,,,
+195.22.214.85,,,,
+195.22.220.56,,,,
+195.22.222.12,,,,
+195.222.34.1,,,,
+195.229.29.81,,,,
+195.229.3.43,,,,
+195.239.132.141,,,,
+195.245.142.186,,,,
+195.245.143.1,,,,
+195.246.236.61,,,,
+195.250.60.124,,,,
+195.253.76.133,,,,
+195.253.76.134,,,,
+195.30.70.37,,,,
+195.32.69.201,,,,
+195.43.159.17,,,,
+195.43.87.139,,,,
+195.5.171.253,,,,
+195.60.190.28,,,,
+195.66.224.184,,,,
+195.66.224.193,,,,
+195.66.225.116,,,,
+195.66.228.2,,,,
+195.66.241.219,,,,
+195.66.243.23,,,,
+195.72.90.170,,,,
+195.80.113.161,,,,
+195.80.127.212,,,,
+195.80.157.37,,,,
+196.14.240.4,,,,
+196.216.220.141,,,,
+196.250.236.238,,,,
+196.40.108.2,,,,
+196.40.111.145,,,,
+196.46.34.109,,,,
+196.46.40.57,,,,
+196.49.14.1,,,,
+196.49.15.253,,,,
+196.49.32.249,,,,
+196.49.5.97,,,,
+196.49.84.177,,,,
+196.49.84.34,,,,
+196.49.9.51,,,,
+196.6.220.1,,,,
+196.60.8.152,,,,
+197.155.0.133,,,,
+197.155.0.245,,,,
+197.155.1.101,,,,
+197.155.3.1,,,,
+197.155.90.197,,,,
+197.155.90.200,,,,
+197.157.67.128,,,,
+197.157.79.49,,,,
+197.189.193.2,,,,
+197.189.194.145,,,,
+197.221.70.89,,,,
+198.135.169.25,,,,
+198.179.18.5,,,,
+198.27.73.205,,,,
+198.27.73.218,,,,
+198.32.160.182,,,,
+198.46.92.101,,,,
+198.46.92.57,,,,
+198.47.108.121,,,,
+198.89.188.10,,,,
+198.89.188.8,,,,
+199.116.81.225,,,,
+199.119.64.136,,,,
+199.119.64.158,,,,
+199.119.64.222,,,,
+199.119.64.234,,,,
+199.119.64.95,,,,
+199.119.65.14,,,,
+199.119.65.3,,,,
+199.167.20.18,,,,
+199.192.70.16,,,,
+199.47.145.1,,,,
+199.47.240.251,,,,
+199.47.240.253,,,,
+199.59.208.40,,,,
+2.120.13.32,,,,
+2.120.13.36,,,,
+2.58.52.129,,,,
+200.1.123.253,,,,
+200.107.82.194,,,,
+200.114.94.254,,,,
+200.131.0.134,,,,
+200.132.1.2,,,,
+200.143.252.25,,,,
+200.143.252.74,,,,
+200.143.253.161,,,,
+200.15.9.94,,,,
+200.16.114.22,,,,
+200.16.69.122,,,,
+200.16.69.2,,,,
+200.16.69.44,,,,
+200.16.69.60,,,,
+200.16.69.73,,,,
+200.160.0.161,,,,
+200.160.0.253,,,,
+200.160.6.61,,,,
+200.19.158.2,,,,
+200.238.138.9,,,,
+200.24.221.21,,,,
+200.25.27.2,,,,
+200.25.30.132,,,,
+200.25.45.66,,,,
+200.25.51.121,,,,
+200.25.51.148,,,,
+200.25.51.166,,,,
+200.25.51.204,,,,
+200.25.51.211,,,,
+200.25.51.219,,,,
+200.25.51.242,,,,
+200.25.51.251,,,,
+200.25.51.37,,,,
+200.25.51.54,,,,
+200.25.51.8,,,,
+200.25.51.85,,,,
+200.25.58.212,,,,
+200.25.58.214,,,,
+200.25.75.24,,,,
+200.25.85.226,,,,
+200.25.88.145,,,,
+200.25.91.166,,,,
+200.3.168.106,,,,
+200.3.168.73,,,,
+200.32.84.197,,,,
+200.35.190.249,,,,
+200.40.177.48,,,,
+200.40.177.49,,,,
+200.40.65.10,,,,
+200.40.98.28,,,,
+200.5.63.66,,,,
+200.50.248.33,,,,
+200.51.217.105,,,,
+200.57.151.254,,,,
+200.58.244.1,,,,
+200.58.72.2,,,,
+200.63.125.241,,,,
+200.68.121.94,,,,
+200.7.84.1,,,,
+200.7.84.34,,,,
+200.71.192.129,,,,
+200.82.230.153,,,,
+200.82.230.155,,,,
+200.82.230.175,,,,
+200.87.183.0,,,,
+200.87.253.26,,,,
+200.9.157.193,,,,
+200.9.157.235,,,,
+200.94.182.189,,,,
+201.10.242.215,,,,
+201.174.154.25,,,,
+201.174.172.1,,,,
+201.174.244.158,,,,
+201.174.251.24,,,,
+201.174.254.191,,,,
+201.175.40.233,,,,
+201.182.140.238,,,,
+201.219.153.33,,,,
+201.237.109.177,,,,
+202.1.205.241,,,,
+202.124.238.241,,,,
+202.124.238.34,,,,
+202.151.92.17,,,,
+202.166.193.33,,,,
+202.167.230.25,,,,
+202.169.59.21,,,,
+202.170.41.133,,,,
+202.172.100.31,,,,
+202.172.100.38,,,,
+202.172.100.54,,,,
+202.2.120.249,,,,
+202.2.120.34,,,,
+202.214.97.2,,,,
+202.226.3.30,,,,
+202.232.1.122,,,,
+202.232.1.134,,,,
+202.40.149.177,,,,
+202.46.184.1,,,,
+202.5.31.217,,,,
+202.50.236.5,,,,
+202.58.202.194,,,,
+202.61.114.193,,,,
+202.68.65.32,,,,
+202.68.65.33,,,,
+202.68.67.8,,,,
+202.70.158.168,,,,
+202.79.41.105,,,,
+202.79.41.136,,,,
+202.79.41.139,,,,
+202.84.138.82,,,,
+202.84.141.225,,,,
+202.84.141.25,,,,
+202.84.222.134,,,,
+202.84.227.89,,,,
+202.84.247.17,,,,
+202.84.253.86,,,,
+202.87.128.197,,,,
+202.87.128.198,,,,
+202.87.175.241,,,,
+202.88.72.118,,,,
+203.113.186.209,,,,
+203.119.104.17,,,,
+203.119.104.87,,,,
+203.119.111.130,,,,
+203.119.15.253,,,,
+203.121.81.73,,,,
+203.123.48.6,,,,
+203.131.249.249,,,,
+203.174.85.105,,,,
+203.178.136.116,,,,
+203.208.148.81,,,,
+203.208.166.206,,,,
+203.208.183.89,,,,
+203.41.0.249,,,,
+203.41.0.41,,,,
+203.41.0.49,,,,
+203.48.8.169,,,,
+203.48.8.170,,,,
+203.48.8.53,,,,
+203.48.8.54,,,,
+203.50.11.172,,,,
+203.50.11.194,,,,
+203.50.13.130,,,,
+203.50.13.86,,,,
+203.50.13.94,,,,
+203.50.6.106,,,,
+203.50.6.116,,,,
+203.50.6.124,,,,
+203.50.6.174,,,,
+203.50.6.238,,,,
+203.75.229.101,,,,
+203.75.229.102,,,,
+203.96.120.93,,,,
+204.11.64.66,,,,
+204.11.65.1,,,,
+204.11.66.210,,,,
+204.11.67.165,,,,
+204.148.11.5,,,,
+204.157.96.25,,,,
+204.209.51.52,,,,
+204.27.68.146,,,,
+204.27.68.162,,,,
+204.27.68.163,,,,
+204.27.68.234,,,,
+204.8.154.49,,,,
+204.8.234.2,,,,
+204.87.183.1,,,,
+204.9.92.178,,,,
+204.9.92.187,,,,
+204.93.204.92,,,,
+204.93.251.124,,,,
+204.93.251.63,,,,
+205.129.20.1,,,,
+205.173.253.1,,,,
+205.196.181.157,,,,
+205.201.63.20,,,,
+205.201.63.65,,,,
+205.236.99.241,,,,
+206.108.17.62,,,,
+206.126.236.37,,,,
+206.144.240.5,,,,
+206.144.243.5,,,,
+206.148.22.117,,,,
+206.148.22.141,,,,
+206.148.24.138,,,,
+206.148.24.140,,,,
+206.148.24.179,,,,
+206.148.24.180,,,,
+206.148.24.195,,,,
+206.148.24.196,,,,
+206.148.24.27,,,,
+206.148.24.3,,,,
+206.148.25.138,,,,
+206.148.25.43,,,,
+206.148.25.78,,,,
+206.148.26.155,,,,
+206.148.26.4,,,,
+206.148.26.51,,,,
+206.148.26.68,,,,
+206.148.26.81,,,,
+206.148.27.189,,,,
+206.148.27.24,,,,
+206.148.27.38,,,,
+206.162.189.130,,,,
+206.196.178.149,,,,
+206.237.97.1,,,,
+206.81.80.150,,,,
+206.9.1.105,,,,
+206.9.2.214,,,,
+206.9.2.218,,,,
+207.153.0.5,,,,
+207.153.0.70,,,,
+207.162.204.233,,,,
+207.226.224.235,,,,
+207.245.202.224,,,,
+207.32.217.119,,,,
+208.110.83.129,,,,
+208.116.218.89,,,,
+208.116.218.97,,,,
+208.184.12.189,,,,
+208.40.192.201,,,,
+208.40.199.232,,,,
+208.71.115.9,,,,
+208.73.136.1,,,,
+208.73.136.239,,,,
+208.73.138.1,,,,
+208.80.152.246,,,,
+208.80.154.194,,,,
+208.80.155.66,,,,
+208.86.250.252,,,,
+208.87.241.102,,,,
+208.90.108.82,,,,
+208.90.111.1,,,,
+208.90.111.90,,,,
+209.10.65.42,,,,
+209.10.80.168,,,,
+209.120.135.41,,,,
+209.120.155.129,,,,
+209.160.143.53,,,,
+209.189.200.129,,,,
+209.189.223.13,,,,
+209.209.88.2,,,,
+209.222.31.33,,,,
+209.249.65.145,,,,
+209.46.5.209,,,,
+209.46.5.218,,,,
+209.46.5.221,,,,
+209.51.164.41,,,,
+209.51.164.42,,,,
+209.51.171.153,,,,
+209.58.61.34,,,,
+209.58.86.142,,,,
+210.138.93.109,,,,
+210.138.93.41,,,,
+210.213.134.150,,,,
+210.213.134.54,,,,
+210.57.122.96,,,,
+210.57.53.43,,,,
+210.57.53.99,,,,
+210.86.232.94,,,,
+210.86.233.10,,,,
+210.86.233.37,,,,
+212.10.11.210,,,,
+212.100.172.18,,,,
+212.100.172.24,,,,
+212.100.172.65,,,,
+212.101.201.125,,,,
+212.103.84.17,,,,
+212.107.37.94,,,,
+212.111.192.229,,,,
+212.116.34.132,,,,
+212.116.34.138,,,,
+212.119.5.6,,,,
+212.121.171.17,,,,
+212.121.175.169,,,,
+212.121.175.171,,,,
+212.121.181.121,,,,
+212.133.7.162,,,,
+212.138.250.7,,,,
+212.154.210.203,,,,
+212.156.102.136,,,,
+212.156.102.141,,,,
+212.156.102.186,,,,
+212.156.108.1,,,,
+212.156.117.96,,,,
+212.162.45.77,,,,
+212.18.3.181,,,,
+212.18.7.249,,,,
+212.191.237.73,,,,
+212.202.68.0,,,,
+212.202.68.2,,,,
+212.218.155.112,,,,
+212.218.155.99,,,,
+212.224.104.0,,,,
+212.227.112.104,,,,
+212.227.117.112,,,,
+212.227.117.113,,,,
+212.227.117.24,,,,
+212.227.158.128,,,,
+212.233.255.165,,,,
+212.233.255.237,,,,
+212.243.96.73,,,,
+212.247.125.21,,,,
+212.25.28.100,,,,
+212.3.202.10,,,,
+212.3.202.2,,,,
+212.3.202.245,,,,
+212.39.69.32,,,,
+212.43.193.144,,,,
+212.43.193.58,,,,
+212.45.137.158,,,,
+212.45.137.190,,,,
+212.45.159.246,,,,
+212.45.33.11,,,,
+212.45.33.14,,,,
+212.45.44.146,,,,
+212.45.44.157,,,,
+212.45.44.173,,,,
+212.47.157.16,,,,
+212.47.224.7,,,,
+212.51.187.98,,,,
+212.53.200.129,,,,
+212.53.201.175,,,,
+212.56.160.4,,,,
+212.57.48.222,,,,
+212.60.63.142,,,,
+212.62.68.252,,,,
+212.62.85.11,,,,
+212.66.66.78,,,,
+212.7.0.254,,,,
+212.7.30.40,,,,
+212.72.236.65,,,,
+212.72.46.30,,,,
+212.72.47.149,,,,
+212.85.148.178,,,,
+212.85.148.186,,,,
+212.85.148.214,,,,
+212.85.148.72,,,,
+212.88.110.33,,,,
+212.9.170.189,,,,
+212.92.102.139,,,,
+212.93.96.51,,,,
+212.98.161.17,,,,
+213.108.25.2,,,,
+213.128.135.20,,,,
+213.128.159.13,,,,
+213.133.112.41,,,,
+213.135.251.127,,,,
+213.135.251.135,,,,
+213.135.44.129,,,,
+213.135.49.129,,,,
+213.136.15.241,,,,
+213.140.35.114,,,,
+213.140.36.112,,,,
+213.140.36.114,,,,
+213.140.36.172,,,,
+213.140.36.86,,,,
+213.140.36.91,,,,
+213.140.37.116,,,,
+213.140.39.118,,,,
+213.140.39.119,,,,
+213.140.49.101,,,,
+213.140.49.236,,,,
+213.140.49.238,,,,
+213.140.49.252,,,,
+213.140.49.253,,,,
+213.143.120.113,,,,
+213.144.167.40,,,,
+213.144.184.40,,,,
+213.144.184.58,,,,
+213.144.184.60,,,,
+213.144.184.62,,,,
+213.145.209.195,FI,Kajaani,Kainuu,"64.2273,27.7285"
+213.152.16.77,,,,
+213.155.129.117,,,,
+213.157.13.158,,,,
+213.157.192.1,,,,
+213.157.192.9,,,,
+213.157.194.1,,,,
+213.158.113.28,,,,
+213.163.75.130,,,,
+213.167.114.219,,,,
+213.167.117.30,,,,
+213.167.117.38,,,,
+213.167.117.50,,,,
+213.167.117.56,,,,
+213.167.117.62,,,,
+213.170.135.76,,,,
+213.173.161.251,,,,
+213.178.75.134,,,,
+213.178.80.33,,,,
+213.178.80.65,,,,
+213.181.114.134,,,,
+213.182.1.235,,,,
+213.182.2.172,,,,
+213.186.32.202,,,,
+213.19.207.9,,,,
+213.192.184.76,,,,
+213.192.185.70,,,,
+213.192.191.169,,,,
+213.197.128.133,,,,
+213.197.128.21,,,,
+213.200.68.81,,,,
+213.202.2.0,,,,
+213.202.6.194,,,,
+213.206.174.170,,,,
+213.207.7.51,,,,
+213.208.150.193,,,,
+213.208.153.134,,,,
+213.221.244.4,,,,
+213.222.217.2,,,,
+213.225.160.252,,,,
+213.227.178.33,,,,
+213.239.203.105,,,,
+213.239.203.161,,,,
+213.239.203.197,,,,
+213.239.228.1,,,,
+213.239.228.21,,,,
+213.239.237.209,,,,
+213.239.237.213,,,,
+213.239.252.81,,,,
+213.239.254.58,,,,
+213.242.126.197,,,,
+213.246.32.133,,,,
+213.246.32.155,,,,
+213.246.32.172,,,,
+213.248.100.105,,,,
+213.248.100.132,,,,
+213.248.100.208,,,,
+213.248.101.113,,,,
+213.248.101.92,,,,
+213.248.103.20,,,,
+213.248.67.162,,,,
+213.248.68.101,,,,
+213.248.68.42,,,,
+213.248.72.154,,,,
+213.248.74.144,,,,
+213.248.74.220,,,,
+213.248.74.51,,,,
+213.248.75.176,,,,
+213.248.77.48,,,,
+213.248.79.10,,,,
+213.248.81.54,,,,
+213.248.82.152,,,,
+213.248.84.144,,,,
+213.248.85.36,,,,
+213.248.89.118,,,,
+213.248.91.209,,,,
+213.248.92.108,,,,
+213.248.94.222,,,,
+213.248.95.132,,,,
+213.248.95.176,,,,
+213.248.95.90,,,,
+213.248.96.108,,,,
+213.248.96.150,,,,
+213.248.97.138,,,,
+213.248.97.220,,,,
+213.248.98.120,,,,
+213.248.98.252,,,,
+213.249.124.173,,,,
+213.251.128.65,,,,
+213.254.31.239,,,,
+213.254.31.97,,,,
+213.30.208.93,,,,
+213.39.26.245,,,,
+213.46.171.222,,,,
+213.46.192.2,,,,
+213.58.172.114,,,,
+213.91.165.184,,,,
+213.91.165.186,,,,
+213.99.17.149,,,,
+216.173.77.1,,,,
+216.200.245.185,,,,
+216.200.245.209,,,,
+216.218.132.13,,,,
+216.218.147.245,,,,
+216.218.216.249,,,,
+216.218.223.9,,,,
+216.238.41.65,,,,
+216.37.47.153,,,,
+216.39.243.156,,,,
+216.48.176.1,,,,
+216.66.65.137,,,,
+216.66.68.33,,,,
+216.66.78.125,,,,
+217.113.177.238,,,,
+217.113.189.122,,,,
+217.148.164.16,,,,
+217.148.190.1,,,,
+217.150.48.194,,,,
+217.150.56.138,,,,
+217.150.58.46,,,,
+217.171.32.173,,,,
+217.171.32.174,,,,
+217.196.147.94,,,,
+217.197.106.129,,,,
+217.197.95.66,,,,
+217.198.242.238,,,,
+217.198.243.245,,,,
+217.198.246.157,,,,
+217.198.246.254,,,,
+217.243.179.164,,,,
+217.243.179.214,,,,
+217.243.20.17,,,,
+217.25.179.124,,,,
+217.25.179.61,,,,
+217.28.160.14,,,,
+217.28.166.211,,,,
+217.29.66.116,,,,
+217.29.66.183,,,,
+217.29.66.39,,,,
+217.29.76.1,,,,
+217.31.202.253,,,,
+217.31.48.15,,,,
+217.5.115.110,,,,
+217.61.32.63,,,,
+217.68.96.60,,,,
+217.68.96.61,,,,
+217.70.176.110,,,,
+217.70.176.8,,,,
+217.71.96.0,,,,
+217.71.96.18,,,,
+217.76.64.5,,,,
+217.76.65.77,,,,
+220.128.26.177,,,,
+220.128.30.130,,,,
+220.128.31.117,,,,
+220.128.6.165,,,,
+221.120.192.172,,,,
+223.118.5.90,,,,
+223.118.6.142,,,,
+223.118.6.41,,,,
+223.119.0.94,,,,
+223.119.21.89,,,,
+223.120.11.10,,,,
+223.120.11.49,,,,
+223.120.16.190,,,,
+223.120.16.213,,,,
+223.120.3.165,,,,
+223.120.3.89,,,,
+223.130.20.217,,,,
+223.130.21.201,,,,
+223.28.43.54,,,,
+223.28.53.222,,,,
+23.128.248.1,,,,
+23.129.32.17,,,,
+23.130.138.1,,,,
+23.131.160.205,,,,
+23.131.161.177,,,,
+23.132.228.254,,,,
+23.132.28.1,,,,
+23.133.168.129,,,,
+23.136.28.168,,,,
+23.136.28.199,,,,
+23.136.28.201,,,,
+23.136.28.202,,,,
+23.136.28.206,,,,
+23.138.112.21,,,,
+23.142.248.1,,,,
+23.143.82.1,,,,
+23.146.248.1,,,,
+23.147.72.125,,,,
+23.147.72.241,,,,
+23.148.232.1,,,,
+23.150.40.5,,,,
+23.152.192.9,,,,
+23.153.56.25,,,,
+23.156.200.253,,,,
+23.156.200.254,,,,
+23.157.160.129,,,,
+23.157.160.4,,,,
+23.161.80.41,,,,
+23.168.145.9,,,,
+23.170.33.2,,,,
+23.173.128.1,,,,
+23.174.128.17,,,,
+23.175.208.252,,,,
+23.175.209.1,,,,
+23.176.216.1,,,,
+23.176.224.2,,,,
+23.182.72.2,,,,
+23.186.184.1,,,,
+23.186.248.1,,,,
+23.186.248.119,,,,
+23.188.56.97,,,,
+23.203.158.52,,,,
+23.226.232.1,,,,
+23.56.138.24,,,,
+23.91.111.34,,,,
+24.27.236.44,,,,
+27.111.229.103,,,,
+27.111.84.20,,,,
+27.131.108.97,,,,
+27.68.236.18,,,,
+27.68.250.214,,,,
+27.71.239.13,,,,
+31.12.80.134,,,,
+31.12.80.141,,,,
+31.12.80.159,,,,
+31.12.81.148,,,,
+31.12.81.56,,,,
+31.12.82.122,,,,
+31.130.200.1,,,,
+31.131.196.10,,,,
+31.14.143.130,,,,
+31.15.54.137,,,,
+31.154.208.205,,,,
+31.169.48.100,,,,
+31.172.2.254,,,,
+31.172.2.33,,,,
+31.177.63.81,,,,
+31.204.145.67,,,,
+31.204.89.40,,,,
+31.204.89.42,,,,
+31.204.89.50,,,,
+31.204.91.13,,,,
+31.209.89.33,,,,
+31.209.93.102,,,,
+31.209.95.192,,,,
+31.216.56.236,,,,
+31.31.34.123,,,,
+31.31.38.75,,,,
+31.31.38.82,,,,
+31.47.232.1,,,,
+31.47.76.2,,,,
+31.56.45.1,,,,
+31.57.34.0,,,,
+31.57.34.16,,,,
+32.130.91.67,,,,
+36.64.253.233,,,,
+37.10.126.65,,,,
+37.10.40.9,,,,
+37.10.41.9,,,,
+37.10.45.9,,,,
+37.120.220.144,,,,
+37.143.164.17,,,,
+37.143.33.254,,,,
+37.186.150.185,,,,
+37.19.193.150,,,,
+37.19.193.190,,,,
+37.19.193.88,,,,
+37.202.7.125,,,,
+37.203.56.80,,,,
+37.228.130.229,,,,
+37.233.77.225,,,,
+37.247.74.73,,,,
+37.252.190.65,,,,
+37.252.245.93,,,,
+37.252.251.25,,,,
+37.29.105.20,,,,
+37.32.107.65,,,,
+37.46.114.3,,,,
+37.46.121.3,,,,
+37.46.123.252,,,,
+37.46.78.25,,,,
+37.46.78.65,,,,
+37.49.232.13,,,,
+37.49.236.17,,,,
+37.59.16.31,,,,
+37.72.101.19,,,,
+37.72.101.65,,,,
+38.10.250.193,,,,
+38.104.52.78,,,,
+38.110.42.1,,,,
+38.142.154.73,,,,
+38.142.247.153,,,,
+38.146.216.129,,,,
+38.191.196.18,,,,
+38.211.145.106,,,,
+38.224.153.241,,,,
+38.41.4.88,,,,
+38.47.176.1,,,,
+38.47.189.1,,,,
+38.47.191.1,,,,
+38.51.208.5,,,,
+38.51.208.65,,,,
+38.88.165.73,,,,
+4.14.213.113,,,,
+4.15.104.5,,,,
+4.15.122.45,,,,
+4.35.186.169,,,,
+4.37.119.33,,,,
+4.53.56.5,,,,
+4.68.111.101,,,,
+4.68.68.125,,,,
+4.79.46.173,,,,
+41.175.222.236,,,,
+41.175.44.10,,,,
+41.175.45.86,,,,
+41.175.46.57,,,,
+41.181.105.163,,,,
+41.181.190.197,,,,
+41.181.190.199,,,,
+41.181.244.169,,,,
+41.181.244.232,,,,
+41.181.244.234,,,,
+41.181.244.241,,,,
+41.181.247.38,,,,
+41.191.77.205,,,,
+41.216.196.94,,,,
+41.217.220.1,,,,
+41.217.222.1,,,,
+41.220.79.185,,,,
+41.221.208.93,,,,
+41.223.244.129,,,,
+41.66.132.177,,,,
+41.66.132.241,,,,
+41.78.188.135,,,,
+41.79.249.226,,,,
+41.84.12.109,,,,
+41.84.12.29,,,,
+41.84.151.60,,,,
+43.224.189.33,,,,
+43.228.174.118,,,,
+43.228.174.130,,,,
+43.228.174.132,,,,
+43.228.174.198,,,,
+43.230.153.1,,,,
+43.230.153.89,,,,
+43.243.21.17,,,,
+44.30.29.254,,,,
+45.11.104.9,,,,
+45.11.105.6,,,,
+45.11.107.130,,,,
+45.11.107.54,,,,
+45.127.173.24,,,,
+45.130.46.129,,,,
+45.131.252.1,,,,
+45.131.254.226,,,,
+45.131.68.11,,,,
+45.131.68.3,,,,
+45.134.214.16,,,,
+45.136.139.251,,,,
+45.138.175.171,,,,
+45.14.110.105,,,,
+45.140.102.187,,,,
+45.140.102.218,,,,
+45.143.196.49,,,,
+45.146.194.134,,,,
+45.146.194.137,,,,
+45.146.194.65,,,,
+45.148.157.14,,,,
+45.148.64.255,,,,
+45.150.40.185,,,,
+45.152.39.148,,,,
+45.153.82.122,,,,
+45.153.82.58,,,,
+45.153.83.162,,,,
+45.153.83.166,,,,
+45.153.83.2,,,,
+45.153.83.234,,,,
+45.153.83.8,,,,
+45.157.175.2,,,,
+45.157.175.33,,,,
+45.157.243.124,,,,
+45.157.243.130,,,,
+45.157.243.27,,,,
+45.159.104.32,,,,
+45.159.5.225,,,,
+45.167.2.40,,,,
+45.173.216.45,,,,
+45.183.45.1,,,,
+45.183.45.101,,,,
+45.183.45.97,,,,
+45.187.93.57,,,,
+45.32.208.193,,,,
+45.5.10.1,,,,
+45.5.10.9,,,,
+45.5.11.9,,,,
+45.63.81.1,,,,
+45.65.244.253,,,,
+45.68.35.209,,,,
+45.68.42.1,,,,
+45.68.49.81,,,,
+45.68.6.1,,,,
+45.68.91.33,,,,
+45.71.11.110,,,,
+45.83.104.2,,,,
+45.84.145.199,,,,
+45.86.125.181,,,,
+45.86.126.73,,,,
+45.87.135.253,,,,
+45.87.135.255,,,,
+45.87.79.249,,,,
+45.87.79.252,,,,
+45.88.5.249,,,,
+45.89.169.10,,,,
+45.94.14.193,,,,
+46.166.166.30,,,,
+46.166.168.1,,,,
+46.17.200.254,,,,
+46.17.216.1,,,,
+46.17.216.14,,,,
+46.17.216.255,,,,
+46.183.250.254,,,,
+46.183.255.249,,,,
+46.183.255.250,,,,
+46.22.180.57,,,,
+46.227.64.93,,,,
+46.229.54.1,,,,
+46.249.44.76,,,,
+46.249.96.1,,,,
+46.253.2.1,,,,
+46.29.176.65,,,,
+46.30.208.46,,,,
+46.30.208.70,,,,
+46.30.210.48,,,,
+46.59.112.181,,,,
+46.59.112.183,,,,
+46.59.112.234,,,,
+46.59.112.86,,,,
+46.59.112.94,,,,
+49.255.112.150,,,,
+49.255.158.254,,,,
+49.44.187.240,,,,
+5.1.99.169,,,,
+5.1.99.24,,,,
+5.1.99.54,,,,
+5.101.108.9,,,,
+5.101.110.7,,,,
+5.101.111.8,,,,
+5.104.192.129,,,,
+5.11.12.127,,,,
+5.11.12.34,,,,
+5.11.13.61,,,,
+5.11.8.145,,,,
+5.145.135.66,,,,
+5.152.153.16,,,,
+5.180.134.10,,,,
+5.180.134.132,,,,
+5.180.134.138,,,,
+5.180.134.15,,,,
+5.180.134.2,,,,
+5.180.134.205,,,,
+5.180.135.101,,,,
+5.180.135.104,,,,
+5.180.135.14,,,,
+5.180.135.227,,,,
+5.180.135.36,,,,
+5.180.135.88,,,,
+5.180.57.80,,,,
+5.182.144.130,,,,
+5.182.144.19,,,,
+5.188.108.2,,,,
+5.188.168.2,,,,
+5.188.236.240,,,,
+5.188.236.42,,,,
+5.188.238.3,,,,
+5.188.93.2,,,,
+5.199.167.25,,,,
+5.2.80.1,,,,
+5.226.144.134,,,,
+5.226.144.171,,,,
+5.226.144.191,,,,
+5.226.144.254,,,,
+5.226.149.35,,,,
+5.23.30.17,,,,
+5.252.164.112,,,,
+5.253.37.33,,,,
+5.255.66.80,,,,
+5.28.0.21,,,,
+5.39.168.30,,,,
+5.39.202.1,,,,
+5.53.0.58,,,,
+5.53.1.101,,,,
+5.53.3.203,,,,
+5.53.3.43,,,,
+5.53.4.177,,,,
+5.53.6.19,,,,
+5.53.6.190,,,,
+5.53.6.44,,,,
+5.56.19.17,,,,
+5.56.19.209,,,,
+5.56.20.81,,,,
+5.62.127.1,,,,
+50.144.136.49,,,,
+50.30.119.253,,,,
+50.31.137.186,,,,
+50.54.254.125,,,,
+51.158.0.107,,,,
+51.158.138.1,,,,
+51.158.143.16,,,,
+51.158.143.43,,,,
+51.158.143.58,,,,
+51.158.8.177,,,,
+51.159.68.129,,,,
+51.162.232.244,,,,
+51.162.232.249,,,,
+51.162.232.253,,,,
+51.255.248.254,,,,
+51.83.248.1,,,,
+51.89.116.1,,,,
+54.39.176.1,,,,
+57.128.121.0,,,,
+57.128.121.51,,,,
+58.138.112.221,,,,
+58.138.114.233,,,,
+58.138.81.149,,,,
+58.138.84.218,,,,
+58.138.88.234,,,,
+59.145.79.69,,,,
+59.153.9.244,,,,
+61.213.145.45,,,,
+61.246.97.189,,,,
+61.251.96.89,,,,
+61.95.165.141,,,,
+62.101.124.29,,,,
+62.109.128.1,,,,
+62.112.29.66,,,,
+62.115.112.218,,,,
+62.115.112.84,,,,
+62.115.112.90,,,,
+62.115.113.116,,,,
+62.115.113.78,,,,
+62.115.114.184,,,,
+62.115.114.87,,,,
+62.115.114.89,,,,
+62.115.114.91,,,,
+62.115.114.95,,,,
+62.115.115.70,,,,
+62.115.115.77,,,,
+62.115.116.170,,,,
+62.115.116.172,,,,
+62.115.116.213,,,,
+62.115.116.238,,,,
+62.115.116.47,,,,
+62.115.117.114,,,,
+62.115.117.56,,,,
+62.115.118.108,,,,
+62.115.118.58,,,,
+62.115.118.62,,,,
+62.115.119.230,,,,
+62.115.120.176,,,,
+62.115.120.20,,,,
+62.115.120.218,,,,
+62.115.120.238,,,,
+62.115.120.241,,,,
+62.115.120.74,,,,
+62.115.121.221,,,,
+62.115.122.139,,,,
+62.115.122.188,,,,
+62.115.122.34,,,,
+62.115.123.12,,,,
+62.115.123.122,,,,
+62.115.123.124,,,,
+62.115.123.235,,,,
+62.115.123.243,,,,
+62.115.123.26,,,,
+62.115.123.76,,,,
+62.115.124.12,,,,
+62.115.124.123,,,,
+62.115.124.28,,,,
+62.115.124.58,,,,
+62.115.124.60,,,,
+62.115.125.166,,,,
+62.115.125.170,,,,
+62.115.126.144,,,,
+62.115.126.159,,,,
+62.115.126.176,,,,
+62.115.126.228,,,,
+62.115.126.250,,,,
+62.115.126.70,,,,
+62.115.127.6,,,,
+62.115.13.36,,,,
+62.115.132.154,,,,
+62.115.132.157,,,,
+62.115.132.228,,,,
+62.115.132.90,,,,
+62.115.133.239,,,,
+62.115.134.224,,,,
+62.115.134.228,,,,
+62.115.134.246,,,,
+62.115.134.80,,,,
+62.115.135.24,,,,
+62.115.135.25,,,,
+62.115.136.118,,,,
+62.115.136.122,,,,
+62.115.136.145,,,,
+62.115.136.181,PT,Prior Velho,Lisbon,"38.7917,-9.1212"
+62.115.136.213,,,,
+62.115.136.219,,,,
+62.115.136.230,,,,
+62.115.136.248,,,,
+62.115.136.250,,,,
+62.115.136.44,,,,
+62.115.136.76,,,,
+62.115.136.78,,,,
+62.115.136.82,,,,
+62.115.137.132,,,,
+62.115.137.136,,,,
+62.115.137.142,,,,
+62.115.137.148,,,,
+62.115.137.15,,,,
+62.115.137.18,,,,
+62.115.137.192,,,,
+62.115.137.202,,,,
+62.115.137.223,,,,
+62.115.137.249,,,,
+62.115.137.252,,,,
+62.115.137.29,,,,
+62.115.137.38,,,,
+62.115.137.44,,,,
+62.115.137.52,,,,
+62.115.137.54,,,,
+62.115.137.56,,,,
+62.115.137.84,,,,
+62.115.137.90,,,,
+62.115.138.105,,,,
+62.115.138.112,,,,
+62.115.138.132,,,,
+62.115.138.20,,,,
+62.115.138.224,,,,
+62.115.138.236,,,,
+62.115.138.46,,,,
+62.115.138.70,,,,
+62.115.139.0,,,,
+62.115.139.105,,,,
+62.115.139.106,,,,
+62.115.139.124,,,,
+62.115.139.140,,,,
+62.115.139.154,,,,
+62.115.139.16,,,,
+62.115.139.165,,,,
+62.115.139.180,,,,
+62.115.139.184,,,,
+62.115.139.186,,,,
+62.115.139.205,,,,
+62.115.139.21,,,,
+62.115.139.212,,,,
+62.115.139.245,,,,
+62.115.139.251,,,,
+62.115.139.32,,,,
+62.115.139.35,,,,
+62.115.139.40,,,,
+62.115.139.45,,,,
+62.115.139.72,,,,
+62.115.140.100,,,,
+62.115.140.104,,,,
+62.115.140.106,,,,
+62.115.140.108,,,,
+62.115.140.14,,,,
+62.115.140.156,,,,
+62.115.140.157,,,,
+62.115.140.175,,,,
+62.115.140.190,,,,
+62.115.140.226,,,,
+62.115.140.227,,,,
+62.115.140.228,,,,
+62.115.140.229,,,,
+62.115.140.237,,,,
+62.115.140.24,,,,
+62.115.140.244,,,,
+62.115.140.247,,,,
+62.115.140.30,,,,
+62.115.140.38,,,,
+62.115.140.70,,,,
+62.115.141.123,,,,
+62.115.141.132,,,,
+62.115.141.146,,,,
+62.115.141.149,,,,
+62.115.141.153,,,,
+62.115.141.185,,,,
+62.115.141.186,,,,
+62.115.141.34,,,,
+62.115.141.36,,,,
+62.115.141.39,,,,
+62.115.141.51,,,,
+62.115.142.190,,,,
+62.115.142.210,,,,
+62.115.142.36,,,,
+62.115.142.72,,,,
+62.115.143.164,,,,
+62.115.143.236,,,,
+62.115.143.24,,,,
+62.115.143.29,,,,
+62.115.143.32,,,,
+62.115.144.32,,,,
+62.115.144.80,,,,
+62.115.144.94,,,,
+62.115.145.204,,,,
+62.115.145.220,,,,
+62.115.145.221,,,,
+62.115.147.180,,,,
+62.115.148.42,,,,
+62.115.148.76,,,,
+62.115.149.36,,,,
+62.115.149.44,,,,
+62.115.151.140,,,,
+62.115.151.62,,,,
+62.115.155.116,,,,
+62.115.156.74,,,,
+62.115.157.78,,,,
+62.115.160.129,,,,
+62.115.166.182,,,,
+62.115.166.225,,,,
+62.115.166.36,,,,
+62.115.167.128,,,,
+62.115.168.230,,,,
+62.115.168.56,,,,
+62.115.169.52,,,,
+62.115.170.122,,,,
+62.115.175.130,,,,
+62.115.175.190,,,,
+62.115.175.92,,,,
+62.115.178.192,,,,
+62.115.178.72,,,,
+62.115.179.150,,,,
+62.115.180.113,,,,
+62.115.182.237,,,,
+62.115.183.158,,,,
+62.115.183.26,,,,
+62.115.183.52,,,,
+62.115.184.232,,,,
+62.115.185.136,,,,
+62.115.186.118,,,,
+62.115.187.124,,,,
+62.115.187.94,,,,
+62.115.188.54,,,,
+62.115.189.124,,,,
+62.115.189.142,,,,
+62.115.189.206,,,,
+62.115.189.86,,,,
+62.115.191.177,,,,
+62.115.192.82,,,,
+62.115.192.92,,,,
+62.115.193.2,,,,
+62.115.195.201,,,,
+62.115.197.188,,,,
+62.115.198.142,,,,
+62.115.198.204,,,,
+62.115.199.10,,,,
+62.115.199.106,,,,
+62.115.199.116,,,,
+62.115.199.30,,,,
+62.115.200.148,,,,
+62.115.200.20,,,,
+62.115.201.56,,,,
+62.115.202.156,,,,
+62.115.202.248,,,,
+62.115.203.145,,,,
+62.115.203.18,,,,
+62.115.205.224,,,,
+62.115.205.58,,,,
+62.115.207.30,,,,
+62.115.207.92,,,,
+62.115.237.177,,,,
+62.115.32.100,,,,
+62.115.35.148,,,,
+62.115.35.216,,,,
+62.115.36.18,,,,
+62.115.36.50,,,,
+62.115.40.208,,,,
+62.115.41.150,,,,
+62.115.43.112,,,,
+62.115.44.132,,,,
+62.115.44.180,,,,
+62.115.44.56,,,,
+62.115.44.64,,,,
+62.115.45.10,,,,
+62.115.48.200,,,,
+62.115.52.146,,,,
+62.115.55.208,,,,
+62.115.55.98,,,,
+62.115.9.116,,,,
+62.115.9.126,,,,
+62.140.243.117,,,,
+62.140.245.80,,,,
+62.141.47.18,,,,
+62.141.47.21,,,,
+62.141.47.248,,,,
+62.141.47.8,,,,
+62.145.191.158,,,,
+62.145.191.190,,,,
+62.149.185.52,,,,
+62.153.188.74,,,,
+62.154.179.81,,,,
+62.154.5.109,,,,
+62.159.99.230,,,,
+62.176.230.6,,,,
+62.176.231.1,,,,
+62.176.249.59,,,,
+62.176.251.108,,,,
+62.176.251.5,,,,
+62.176.251.79,,,,
+62.176.251.80,,,,
+62.209.167.73,,,,
+62.214.137.217,,,,
+62.216.129.178,,,,
+62.216.130.77,,,,
+62.216.131.154,,,,
+62.217.100.62,,,,
+62.217.98.52,,,,
+62.245.181.98,,,,
+62.40.98.134,,,,
+62.40.98.77,,,,
+62.50.171.161,,,,
+62.68.191.182,,,,
+62.69.146.18,,,,
+62.80.224.111,,,,
+62.80.227.1,,,,
+63.141.253.33,,,,
+63.218.107.69,,,,
+63.218.12.46,,,,
+63.218.125.153,,,,
+63.218.212.241,,,,
+63.218.218.74,,,,
+63.218.230.66,,,,
+63.218.249.101,,,,
+63.220.195.118,,,,
+63.220.195.9,,,,
+63.220.199.180,,,,
+63.220.65.73,,,,
+63.222.106.2,,,,
+63.222.185.19,,,,
+63.222.187.14,,,,
+63.222.188.1,,,,
+63.222.189.2,,,,
+63.222.190.1,,,,
+63.222.191.1,,,,
+63.222.248.14,,,,
+63.222.40.113,,,,
+63.223.43.126,,,,
+63.223.43.202,,,,
+63.223.43.225,,,,
+63.223.60.126,,,,
+63.223.60.138,,,,
+63.223.60.158,,,,
+63.243.180.131,,,,
+63.243.218.16,,,,
+64.125.20.164,,,,
+64.125.20.181,,,,
+64.125.21.92,,,,
+64.125.24.143,,,,
+64.125.25.43,,,,
+64.125.26.12,,,,
+64.125.27.13,,,,
+64.125.27.230,,,,
+64.125.28.124,,,,
+64.125.29.199,,,,
+64.15.1.155,,,,
+64.15.3.144,,,,
+64.187.218.2,,,,
+64.222.201.253,,,,
+64.222.213.155,,,,
+64.255.253.44,,,,
+64.62.133.53,,,,
+64.62.151.1,,,,
+64.62.163.137,,,,
+64.62.180.45,,,,
+64.62.206.97,,,,
+64.71.163.69,,,,
+64.76.205.185,,,,
+64.81.174.97,,,,
+64.86.161.0,,,,
+64.86.26.38,,,,
+65.19.133.193,,,,
+65.49.108.1,,,,
+65.49.108.45,,,,
+65.51.3.116,,,,
+65.74.145.156,,,,
+66.103.227.177,,,,
+66.109.6.5,,,,
+66.110.15.36,,,,
+66.110.80.60,,,,
+66.110.82.4,,,,
+66.163.64.81,,,,
+66.163.69.45,,,,
+66.163.70.106,,,,
+66.198.101.128,,,,
+66.198.101.133,,,,
+66.198.29.34,,,,
+66.198.29.37,,,,
+66.216.1.158,,,,
+66.216.1.6,,,,
+66.216.2.11,,,,
+66.216.2.133,,,,
+66.216.2.135,,,,
+66.216.50.41,,,,
+66.230.78.114,,,,
+66.230.78.178,,,,
+66.230.78.238,,,,
+66.230.79.197,,,,
+66.230.79.42,,,,
+66.231.64.1,,,,
+66.244.16.8,,,,
+66.76.193.61,,,,
+66.97.16.23,,,,
+66.97.16.30,,,,
+66.97.22.48,,,,
+67.214.125.195,,,,
+67.220.151.121,,,,
+68.64.60.188,,,,
+68.71.128.109,,,,
+68.71.128.236,,,,
+68.71.128.64,,,,
+68.71.128.70,,,,
+68.85.114.1,,,,
+69.174.22.85,,,,
+69.197.153.193,,,,
+69.30.209.184,,,,
+69.30.209.221,,,,
+69.30.209.224,,,,
+69.30.209.229,,,,
+69.30.209.237,,,,
+69.30.209.239,,,,
+69.30.209.240,,,,
+69.30.249.205,,,,
+69.41.193.1,,,,
+69.79.100.0,,,,
+69.79.100.148,,,,
+69.79.100.151,,,,
+69.79.100.152,,,,
+69.79.100.16,,,,
+69.79.100.190,,,,
+69.79.100.208,,,,
+69.89.205.20,,,,
+69.89.205.240,,,,
+69.89.205.242,,,,
+69.89.207.2,,,,
+72.129.1.244,,,,
+72.129.3.114,,,,
+72.21.30.24,,,,
+72.29.215.90,,,,
+72.52.114.245,,,,
+72.52.92.165,,,,
+72.52.92.205,,,,
+72.52.92.246,,,,
+72.9.128.67,,,,
+74.117.24.254,,,,
+74.119.117.156,,,,
+74.119.118.16,,,,
+74.209.166.142,,,,
+74.82.51.117,,,,
+76.53.61.193,,,,
+77.109.136.13,,,,
+77.109.177.28,,,,
+77.109.180.1,,,,
+77.220.233.4,,,,
+77.220.238.132,,,,
+77.220.248.130,,,,
+77.220.248.93,,,,
+77.223.56.94,,,,
+77.235.191.157,,,,
+77.235.191.174,,,,
+77.235.191.178,,,,
+77.244.255.55,,,,
+77.246.204.229,,,,
+77.46.118.6,,,,
+77.46.127.1,,,,
+77.48.21.193,,,,
+77.73.224.37,,,,
+77.73.224.65,,,,
+77.73.224.9,,,,
+77.73.226.66,,,,
+77.75.74.33,,,,
+77.75.75.33,,,,
+77.88.216.0,,,,
+78.128.211.253,,,,
+78.138.61.17,,,,
+78.24.234.2,,,,
+78.40.143.1,,,,
+78.41.116.129,,,,
+79.104.225.146,,,,
+79.104.225.60,,,,
+79.110.170.1,,,,
+79.127.193.143,,,,
+79.135.106.1,,,,
+79.142.74.3,,,,
+79.160.112.23,,,,
+8.242.0.1,,,,
+8.243.140.1,,,,
+8.243.60.201,,,,
+8.243.60.29,,,,
+80.156.160.126,,,,
+80.156.160.4,,,,
+80.156.162.179,,,,
+80.156.162.199,,,,
+80.231.165.25,,,,
+80.231.165.48,,,,
+80.231.217.52,,,,
+80.231.65.2,,,,
+80.239.128.120,,,,
+80.239.128.253,,,,
+80.239.130.1,,,,
+80.239.132.186,,,,
+80.239.132.225,,,,
+80.239.135.178,,,,
+80.239.160.204,,,,
+80.239.161.92,,,,
+80.239.167.230,,,,
+80.239.192.101,,,,
+80.239.192.234,,,,
+80.239.192.44,,,,
+80.239.193.134,,,,
+80.239.193.94,,,,
+80.241.3.1,,,,
+80.241.35.190,,,,
+80.241.35.237,,,,
+80.243.161.244,,,,
+80.243.161.81,,,,
+80.243.161.85,,,,
+80.243.57.133,,,,
+80.247.237.238,,,,
+80.249.208.188,,,,
+80.249.209.216,,,,
+80.249.209.82,,,,
+80.249.211.123,,,,
+80.249.211.166,,,,
+80.249.212.0,,,,
+80.249.212.200,,,,
+80.252.103.229,,,,
+80.255.15.165,,,,
+80.67.163.243,,,,
+80.67.181.0,,,,
+80.67.181.19,,,,
+80.67.190.193,,,,
+80.67.2.156,,,,
+80.67.4.132,,,,
+80.67.4.217,,,,
+80.67.9.37,,,,
+80.77.16.253,,,,
+80.77.167.1,,,,
+80.77.167.184,,,,
+80.77.167.61,,,,
+80.77.28.1,,,,
+80.77.4.57,,,,
+80.79.16.245,,,,
+80.80.254.250,,,,
+80.81.192.172,,,,
+80.81.192.73,,,,
+80.81.193.119,,,,
+80.81.193.139,,,,
+80.81.193.80,,,,
+80.81.194.117,,,,
+80.81.194.56,,,,
+80.81.194.90,,,,
+80.81.194.96,,,,
+80.81.195.111,,,,
+80.81.197.40,,,,
+80.82.241.133,,,,
+80.82.243.121,,,,
+80.82.243.126,,,,
+80.82.243.140,,,,
+80.92.124.140,,,,
+80.92.124.146,,,,
+81.16.148.2,,,,
+81.166.123.132,,,,
+81.166.123.56,,,,
+81.166.54.212,,,,
+81.167.242.56,,,,
+81.167.46.6,,,,
+81.169.160.41,,,,
+81.169.160.75,,,,
+81.17.35.96,,,,
+81.18.177.165,,,,
+81.18.201.157,,,,
+81.196.8.33,,,,
+81.20.112.1,,,,
+81.20.69.54,,,,
+81.211.172.1,,,,
+81.211.172.99,,,,
+81.211.193.41,,,,
+81.211.194.41,,,,
+81.211.195.41,,,,
+81.211.196.41,,,,
+81.211.197.41,,,,
+81.211.198.41,,,,
+81.211.199.41,,,,
+81.211.201.41,,,,
+81.211.202.41,,,,
+81.211.203.41,,,,
+81.211.204.41,,,,
+81.211.81.124,,,,
+81.212.203.102,,,,
+81.212.208.178,,,,
+81.212.212.226,,,,
+81.212.214.26,,,,
+81.212.217.102,,,,
+81.212.220.238,,,,
+81.216.114.68,,,,
+81.26.160.190,,,,
+81.26.160.202,,,,
+81.26.96.236,,,,
+81.26.96.42,,,,
+81.27.254.53,,,,
+81.91.160.89,,,,
+81.91.95.113,,,,
+81.91.95.13,,,,
+81.93.6.206,,,,
+81.95.15.49,,,,
+81.95.9.44,,,,
+81.95.9.58,,,,
+82.102.129.235,,,,
+82.134.45.113,,,,
+82.148.224.193,,,,
+82.148.224.3,,,,
+82.178.33.214,,,,
+82.195.67.178,,,,
+82.195.78.101,,,,
+82.197.163.93,,,,
+82.197.168.222,,,,
+82.200.243.212,,,,
+82.200.243.26,,,,
+82.200.243.42,,,,
+82.26.68.1,,,,
+82.26.68.2,,,,
+82.38.0.252,,,,
+82.97.188.3,,,,
+82.98.102.136,,,,
+82.98.102.2,,,,
+82.98.154.253,,,,
+82.98.224.201,,,,
+82.98.65.251,,,,
+83.103.40.65,,,,
+83.126.81.17,,,,
+83.136.160.149,,,,
+83.136.165.70,,,,
+83.145.23.1,,,,
+83.167.254.163,,,,
+83.167.254.168,,,,
+83.167.55.213,,,,
+83.167.55.234,,,,
+83.167.56.246,,,,
+83.167.63.146,,,,
+83.168.71.253,,,,
+83.169.204.186,,,,
+83.171.216.33,,,,
+83.175.125.177,,,,
+83.229.8.254,,,,
+83.231.187.2,,,,
+83.88.6.25,,,,
+83.91.81.89,,,,
+83.97.88.137,,,,
+83.97.88.46,,,,
+83.97.89.13,,,,
+83.97.89.66,,,,
+83.97.89.9,,,,
+83.97.90.20,,,,
+83.97.90.35,,,,
+83.97.92.4,,,,
+84.116.136.146,,,,
+84.116.136.61,,,,
+84.116.202.105,,,,
+84.14.25.209,,,,
+84.16.10.116,,,,
+84.16.11.134,,,,
+84.16.15.12,,,,
+84.16.64.1,,,,
+84.16.64.11,,,,
+84.16.64.144,,,,
+84.16.64.15,,,,
+84.16.64.174,,,,
+84.16.64.193,,,,
+84.16.64.194,,,,
+84.16.64.195,,,,
+84.16.64.196,,,,
+84.16.64.3,,,,
+84.16.64.32,,,,
+84.16.9.12,,,,
+84.17.33.10,,,,
+84.17.33.246,,,,
+84.17.33.32,,,,
+84.17.33.96,,,,
+84.20.39.213,,,,
+84.20.40.250,,,,
+84.200.2.70,,,,
+84.244.125.218,,,,
+84.244.76.129,,,,
+84.254.127.93,,,,
+84.254.77.74,,,,
+84.254.77.85,,,,
+84.254.77.90,,,,
+84.32.130.41,,,,
+84.32.142.177,,,,
+84.32.189.209,,,,
+84.38.236.62,,,,
+84.44.20.157,,,,
+84.54.64.38,,,,
+84.88.18.253,,,,
+85.115.3.245,,,,
+85.118.58.212,,,,
+85.132.90.153,,,,
+85.132.90.221,,,,
+85.14.244.20,,,,
+85.14.244.223,,,,
+85.158.212.196,,,,
+85.162.162.13,,,,
+85.185.93.1,,,,
+85.187.20.234,,,,
+85.187.50.189,,,,
+85.19.121.225,,,,
+85.19.121.70,,,,
+85.19.121.88,,,,
+85.19.122.216,,,,
+85.19.122.217,,,,
+85.190.172.74,,,,
+85.194.195.42,,,,
+85.195.223.132,,,,
+85.195.223.141,,,,
+85.197.82.114,,,,
+85.214.2.70,,,,
+85.233.1.3,,,,
+85.233.1.49,,,,
+85.236.32.149,,,,
+85.236.41.235,,,,
+85.24.220.18,,,,
+85.24.220.7,,,,
+85.29.131.108,,,,
+85.29.131.28,,,,
+85.29.131.84,,,,
+85.29.131.98,,,,
+85.29.165.229,,,,
+85.29.184.129,,,,
+85.30.128.70,,,,
+85.30.128.71,,,,
+85.30.128.85,,,,
+85.31.23.129,,,,
+85.31.8.52,,,,
+85.93.198.201,,,,
+85.93.215.81,,,,
+85.93.31.1,,,,
+86.107.73.2,,,,
+86.38.3.142,,,,
+86.50.254.239,,,,
+86.50.254.240,,,,
+86.50.254.246,,,,
+86.50.254.252,,,,
+86.50.255.220,,,,
+86.50.255.223,,,,
+86.50.255.224,,,,
+86.50.255.232,,,,
+86.50.255.74,,,,
+86.50.255.83,,,,
+86.60.253.234,,,,
+86.60.254.248,,,,
+86.60.254.251,,,,
+87.195.25.81,,,,
+87.195.79.81,,,,
+87.234.14.206,,,,
+87.234.14.235,,,,
+87.236.154.128,,,,
+87.236.154.144,,,,
+87.236.154.168,,,,
+87.236.154.176,,,,
+87.236.154.188,,,,
+87.236.154.212,,,,
+87.236.154.30,,,,
+87.236.154.66,,,,
+87.236.158.138,,,,
+87.236.158.20,,,,
+87.236.158.202,,,,
+87.236.158.58,,,,
+87.236.158.62,,,,
+87.236.216.225,,,,
+87.237.165.2,,,,
+87.237.203.49,,,,
+87.238.225.10,,,,
+87.245.211.72,,,,
+87.245.214.185,,,,
+87.245.227.60,,,,
+87.245.227.61,,,,
+87.245.228.132,,,,
+87.245.230.102,,,,
+87.245.230.12,,,,
+87.245.230.94,,,,
+87.245.230.95,,,,
+87.245.231.156,,,,
+87.245.231.200,,,,
+87.245.233.108,,,,
+87.245.233.255,,,,
+87.245.233.44,,,,
+87.245.234.169,,,,
+87.245.238.169,,,,
+87.245.238.228,,,,
+87.245.238.230,,,,
+87.245.238.250,,,,
+87.245.238.252,,,,
+87.245.238.34,,,,
+87.245.239.148,,,,
+87.245.240.70,,,,
+87.245.241.209,,,,
+87.245.241.98,,,,
+87.245.242.170,,,,
+87.245.242.177,,,,
+87.245.242.204,,,,
+87.245.242.218,,,,
+87.245.242.64,,,,
+87.245.242.68,,,,
+87.245.243.156,,,,
+87.245.243.157,,,,
+87.245.244.64,,,,
+87.245.244.86,,,,
+87.245.245.102,,,,
+87.245.245.141,,,,
+87.245.245.68,,,,
+87.245.246.140,,,,
+87.245.246.234,,,,
+87.245.246.54,,,,
+87.245.246.86,,,,
+87.245.248.158,,,,
+87.245.249.241,,,,
+87.247.54.101,,,,
+87.251.34.3,,,,
+87.253.184.90,,,,
+87.255.238.137,,,,
+87.44.77.128,,,,
+88.198.173.49,,,,
+88.200.7.238,,,,
+88.200.7.246,,,,
+88.204.208.1,,,,
+88.204.248.245,,,,
+88.218.206.0,,,,
+88.220.104.141,,,,
+88.220.204.158,,,,
+88.255.14.13,,,,
+88.255.159.213,,,,
+88.81.228.253,,,,
+88.81.244.0,,,,
+88.81.244.214,,,,
+88.81.244.221,,,,
+88.86.103.6,,,,
+88.86.116.28,,,,
+88.86.96.161,,,,
+88.86.96.166,,,,
+88.86.96.173,,,,
+88.86.96.186,,,,
+89.104.121.139,,,,
+89.106.219.237,,,,
+89.116.135.193,,,,
+89.163.136.12,,,,
+89.163.136.186,,,,
+89.163.136.204,,,,
+89.163.136.86,,,,
+89.163.203.48,,,,
+89.163.203.81,,,,
+89.185.60.121,,,,
+89.190.1.65,,,,
+89.190.2.242,,,,
+89.218.115.129,,,,
+89.218.223.37,,,,
+89.218.229.165,,,,
+89.218.74.77,,,,
+89.221.32.156,,,,
+89.234.186.143,,,,
+89.234.186.34,,,,
+89.236.171.1,,,,
+89.238.218.213,,,,
+89.37.98.1,,,,
+89.38.165.94,,,,
+89.38.167.134,,,,
+89.38.167.217,,,,
+89.44.12.77,,,,
+89.45.247.225,,,,
+89.47.48.185,,,,
+90.223.193.0,,,,
+90.223.193.2,,,,
+91.103.0.194,,,,
+91.103.0.98,,,,
+91.108.51.7,,,,
+91.121.131.150,,,,
+91.124.1.26,,,,
+91.129.12.130,,,,
+91.129.12.21,,,,
+91.129.13.102,,,,
+91.129.13.108,,,,
+91.129.14.112,,,,
+91.129.14.114,,,,
+91.129.14.187,,,,
+91.129.16.138,,,,
+91.129.19.60,,,,
+91.132.103.2,,,,
+91.132.103.3,,,,
+91.135.161.161,,,,
+91.185.18.169,,,,
+91.185.6.9,,,,
+91.189.250.9,,,,
+91.190.224.97,,,,
+91.190.228.50,,,,
+91.196.6.17,,,,
+91.198.176.69,,,,
+91.200.16.66,,,,
+91.202.128.65,,,,
+91.204.160.248,,,,
+91.204.160.50,,,,
+91.204.162.1,,,,
+91.204.73.192,,,,
+91.205.215.212,,,,
+91.206.229.129,,,,
+91.206.52.10,,,,
+91.206.52.170,,,,
+91.206.52.205,,,,
+91.206.52.40,,,,
+91.206.53.26,,,,
+91.209.0.1,,,,
+91.209.16.1,,,,
+91.210.17.59,,,,
+91.212.77.250,,,,
+91.213.34.5,,,,
+91.213.39.1,,,,
+91.215.150.217,,,,
+91.216.219.5,,,,
+91.217.27.253,,,,
+91.218.160.1,,,,
+91.218.163.89,,,,
+91.218.22.235,,,,
+91.218.4.66,,,,
+91.218.5.65,,,,
+91.221.192.8,,,,
+91.221.193.2,,,,
+91.221.37.1,,,,
+91.221.4.1,,,,
+91.222.4.66,,,,
+91.227.33.1,,,,
+91.228.64.254,,,,
+91.232.154.2,,,,
+91.232.229.3,,,,
+91.234.194.1,,,,
+91.236.1.238,,,,
+91.236.52.255,,,,
+91.236.55.68,,,,
+91.237.152.4,,,,
+91.237.218.9,,,,
+91.244.71.1,,,,
+92.214.109.125,,,,
+92.220.190.137,,,,
+92.223.105.3,,,,
+92.223.107.98,,,,
+92.223.110.2,,,,
+92.223.112.3,,,,
+92.223.12.75,,,,
+92.223.126.129,,,,
+92.223.59.2,,,,
+92.223.63.81,,,,
+92.223.68.34,,,,
+92.223.78.19,,,,
+92.223.92.19,,,,
+92.223.93.195,,,,
+92.243.15.252,,,,
+92.255.4.15,,,,
+92.255.4.17,,,,
+92.38.132.2,,,,
+92.38.135.2,,,,
+92.38.169.130,,,,
+92.38.171.2,,,,
+92.38.176.2,,,,
+92.38.178.1,,,,
+92.38.184.2,,,,
+92.38.191.67,,,,
+92.46.234.129,,,,
+92.47.141.201,,,,
+92.47.144.125,,,,
+92.47.144.141,,,,
+92.47.144.145,,,,
+92.47.144.195,,,,
+92.47.144.42,,,,
+92.47.144.57,,,,
+92.47.145.109,,,,
+92.47.145.135,,,,
+92.47.145.175,,,,
+92.47.145.67,,,,
+92.47.150.118,,,,
+92.47.151.104,,,,
+92.47.151.113,,,,
+92.47.151.127,,,,
+92.47.151.96,,,,
+92.47.151.98,,,,
+92.53.93.179,,,,
+92.60.104.104,,,,
+92.60.104.113,,,,
+92.60.104.94,,,,
+92.60.13.85,,,,
+92.60.2.92,,,,
+92.60.2.94,,,,
+92.79.214.58,,,,
+93.113.126.129,,,,
+93.157.191.41,,,,
+93.158.208.20,,,,
+93.174.194.182,,,,
+93.186.132.194,,,,
+93.186.133.209,,,,
+93.190.128.177,,,,
+93.190.135.243,,,,
+93.190.252.146,,,,
+93.191.9.244,,,,
+93.88.224.1,,,,
+93.88.225.1,,,,
+93.90.135.194,,,,
+93.92.119.45,,,,
+93.92.119.56,,,,
+93.92.99.40,,,,
+94.103.180.16,,,,
+94.103.180.2,,,,
+94.103.180.28,,,,
+94.103.180.29,,,,
+94.103.180.31,,,,
+94.103.180.32,,,,
+94.103.180.33,,,,
+94.103.180.34,,,,
+94.103.180.35,,,,
+94.103.180.36,,,,
+94.103.180.37,,,,
+94.103.180.67,,,,
+94.103.180.68,,,,
+94.126.239.229,,,,
+94.126.239.237,,,,
+94.126.239.253,,,,
+94.126.239.62,,,,
+94.136.163.1,,,,
+94.136.2.189,,,,
+94.137.63.129,,,,
+94.140.62.189,,,,
+94.142.103.32,,,,
+94.142.116.95,,,,
+94.142.118.11,,,,
+94.142.118.99,,,,
+94.142.121.185,,,,
+94.142.127.254,,,,
+94.142.240.253,,,,
+94.142.99.167,,,,
+94.158.46.129,,,,
+94.16.25.154,,,,
+94.16.25.158,,,,
+94.176.100.225,,,,
+94.176.100.234,,,,
+94.176.183.83,,,,
+94.198.152.2,,,,
+94.198.159.1,,,,
+94.199.170.201,,,,
+94.199.170.202,,,,
+94.199.89.3,,,,
+94.199.89.6,,,,
+94.199.91.129,,,,
+94.203.76.209,,,,
+94.205.255.249,,,,
+94.207.43.1,,,,
+94.228.128.118,,,,
+94.228.128.58,,,,
+94.228.128.92,,,,
+94.228.136.253,,,,
+94.228.141.253,,,,
+94.231.212.1,,,,
+94.231.212.65,,,,
+94.242.0.1,,,,
+94.242.1.1,,,,
+94.247.111.1,,,,
+94.42.104.49,,,,
+94.77.210.129,,,,
+94.77.252.89,,,,
+95.131.96.113,,,,
+95.163.252.9,,,,
+95.167.169.86,,,,
+95.175.96.10,,,,
+95.175.96.7,,,,
+95.175.97.18,,,,
+95.179.204.5,,,,
+95.216.134.168,,,,
+95.3.56.189,,,,
+95.47.236.145,,,,
+95.58.160.185,,,,
+95.59.172.12,,,,
+95.59.172.46,,,,
+95.59.172.86,,,,
+95.59.172.9,,,,
+96.110.34.14,,,,
+96.110.42.77,,,,
+96.127.249.58,,,,
+96.216.188.9,,,,
+96.216.237.9,,,,
+98.98.230.69,,,,
+98.98.231.36,,,,
